@@ -1,4 +1,8 @@
 
+        *{
+            font-family: "Times New Roman", Times, serif, Arial, Helvetica, "Courier New";
+        }
+
         body {
             font-family: Arial, sans-serif;
             background-color: #FAF9F6;
@@ -49,8 +53,8 @@
 
         }
         .about-image {
-            width: 200px;
-            height: 200px;
+            width: 250px;
+            height: 250px;
             margin-right: 20px;
         }
 
