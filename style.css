@@ -10,6 +10,7 @@
             padding: 0;
             line-height: 2.0;
             text-align: justify;
+            width: 100%;
 
         }
         header {
@@ -17,6 +18,7 @@
             color: #fff;
             text-align: center;
             padding: 20px 0;
+            width: 100%;
         }
         header h1 {
             font-size: 36px;
@@ -26,6 +28,7 @@
             background-color: #444;
             text-align: center;
             padding: 10px 0;
+            width: 100%;
         }
         nav a {
             text-decoration: none;
@@ -46,16 +49,37 @@
         }
 
          /* Style for the About Me section */
-         .about-section {
+         /* .about-section {
             display: flex;
-            align-items: center;
+            align-items: top;
             text-align: justify;
 
-        }
+        } */
         .about-image {
-            width: 250px;
-            height: 250px;
-            margin-right: 20px;
+            align-items:center;
+            width: 200px;
+            height: auto;
+            margin: 20px;
+        }
+
+        /* Default styles for the container and boxes */
+        .container {
+            display: flex; /* Display children side by side */
+            justify-content: center; /* Space them apart */
+            align-items: center;
+        }
+
+
+        .box1 {
+            width: auto; 
+            margin: 5px; 
+            /* border: solid; */
+        }
+
+
+        .box2 {
+            width: auto; 
+            /* border: solid; */
         }
 
         .text-small{
@@ -64,4 +88,66 @@
 
         a{
             text-decoration:none;
+        }
+
+        .sidebar {
+            position: fixed;
+            top: 50%; /* Adjust as needed for vertical positioning */
+            left: 0;
+            transform: translateY(-50%);
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            border-radius: 0px 25px 25px 0px;
+            font-size: 16px;
+        }
+        
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .sidebar li {
+            margin-bottom: 10px;
+        }
+        
+        .sidebar a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        /* Styles for mobile devices */
+        @media (max-width: 1200px) {
+            /* Mobile and tablet styles here */
+            *{
+                font-size: small;
+            }
+            .text-small{
+                font-size: xx-small;
+            }
+
+            sup{
+                font-size: xx-small;
+            }
+        
+            section{
+                width: auto;
+            }
+            .sidebar{
+                display: none;
+            }
+
+            .about-image{
+                max-width: 100%; /* Ensure the image doesn't exceed the container width */
+                max-height: 100%; /* Ensure the image doesn't exceed the container height */
+            }
+
+            .container {
+                flex-direction: column; /* Stack children on top of each other */
+            }
+    
+            .box1, .box2 {
+                width: auto; /* Make them full width in mobile view */
+                /* border: solid; */
+            }
         }

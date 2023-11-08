@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Asadullah Bin Rahman - Portfolio</title>
     <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
 </head>
 <body>
     <header>
@@ -13,26 +14,47 @@
     </header>
     <nav>
         <a href="#about">About Me</a>
-        <a href="#portfolio">Portfolio</a>
-        <a href="#contact">Connect with me</a>
+        <a href="#Achievements">Achievements</a>
+        <a href="#contact">Contacts</a>
     </nav>
+    <aside class="sidebar">
+        <ul>
+            <li><a href="#about">About me</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#awards">Awards</a></li>
+            <li><a href="#contact">Contacts</a></li>
+            <!-- Add more links for other sections -->
+        </ul>
+    </aside>
+    
     <section id="about">
         <h2>About Me</h2>
-        <div class="about-section">
-            <img src="images/my-passport-photo.jpg" alt="Asadullah" class="about-image">
-            <p>
-                I am a Computer Science graduate, and I have experience in Object-Oriented Programmimg (OOP) with C++, Java, and Python. 
-                Also, I possess a sound understanding of Computer Architecture, Microprocessors, Databases, Data Structures, and Algorithms. 
-                Throughout various group projects, I have demonstrated my ability to work collaboratively and communicate effectively. 
-                My career aspiration is to become a researcher in academia. I believe my contributions will make positive impacts on social 
-                development and scientific discoveries. The fields of Computer Vision, Biomedical Image Processing, and Quantum Computing interest me a lot. 
-                And I am seeking a prospective graduate (Master's/ Ph.D.) position.<br>
-                <span><b>Phone no: </b><a href="tel:+8801701905796">+880 1701 905 796</a></span><br>
-                <span><b>Email: </b><a href="mailto:galib.hstu.cse17@gmail.com">galib.hstu.cse17@gmail.com</a></span>
-                <!-- <span><b>Portfolio: </b><a href="https://asadullahgalib007.github.io/">https://asadullahgalib007.github.io</a></span> -->
-
-            </p>
+       
+        <div class="container">
+            <div class="box1">
+                <img src="images/my-passport-photo.jpg" alt="Asadullah" class="about-image">
+            </div>
+            <div class="box2">
+                <p>
+                    I am a Computer Science graduate, and I have experience in Object-Oriented Programmimg (OOP) with C++, Java, and Python. 
+                    Also, I possess a sound understanding of Computer Architecture, Microprocessor, Database, Data Structures, and Algorithms. 
+                    Throughout various group projects, I have demonstrated my ability to work collaboratively and communicate effectively. 
+                    My career aspiration is to become a researcher in academia. I believe my contributions will make positive impacts on social 
+                    development and scientific discoveries. The fields of Computer Vision, Biomedical Image Processing, and Quantum Computing interest me a lot. 
+                    And I am seeking a prospective graduate (Master's/ Ph.D.) position.<br>
+                    <span><b>Phone no: </b><a href="tel:+8801701905796">+880 1701 905 796</a></span><br>
+                    <span><b>Email: </b><a href="mailto:galib.hstu.cse17@gmail.com">galib.hstu.cse17@gmail.com</a></span>
+                    <!-- <span><b>Portfolio: </b><a href="https://asadullahgalib007.github.io/">https://asadullahgalib007.github.io</a></span> -->
+    
+                </p>
+            </div>
         </div>
+        
+
         <p>
             <b><i>Research Interest:</i></b> Computer Vision, Biomedical Image Processing, Quantum Computing, Quantum Information, Quantum Machine Learning
         </p>
@@ -40,9 +62,9 @@
 
     </section>
     <section id="portfolio">
-        <h2>Portfolio</h2>
+        <h2>Achievements</h2>
         
-        <h3>Work Experience</h3>
+        <h3 id="experience">Work Experience</h3>
         <p>
             <b>Part-time Lecturer </b><span class="text-small">(March 2023 - August 2023)</span><br>
             Department of Computer Science and Engineering <br>
@@ -59,7 +81,7 @@
         <hr>
 
 
-        <h3>Education</h3>
+        <h3 id="education">Education</h3>
         <p>
         <b>Degree Awarded: </b>B.Sc. (Engineering) in Computer Science and Engineering (CSE) <span class="text-small">
             (Session 2017 - 2020, Result published in December 2022)
@@ -87,10 +109,44 @@
             </li>
         </ul>
         </p>
-        
         <hr>
 
-        <h3>Publications</h3>
+        <h2 id="skills">Skills</h2>
+          <p>
+            <ul>
+                <li>
+                    <b>Machine Learning and Data Science</b> — I have worked and supervised various data science and machine learning projects including computer vision, image processing, 
+                    and natural language processing. I am proficient in using different frameworks and libraries such as OpenCV, scikit-learn, NumPy, Pandas, SciPy, Matplotlib, and deep-learning 
+                    frameworks such as PyTorch and TensorFlow.
+                </li>
+
+                <li>
+                    <b>Quantum Computation</b> — I have a basic understanding of Quantum Computation. I am familiar with Quantum logic gates, Dirac notation, Bloch sphere representation, 
+                    Quantum entanglement, and different Quantum paradoxes. I have experience of IBM Quantum Computing And Qiskit (An Open-source Quantum Computing Framework).
+                </li>
+
+                <li>
+                    <b>Programming Knowledge</b> — I have a strong understanding of Object Oriented Programming (OOP) with C++ and Java. I have solved over 500 problems on various online judge 
+                    platforms and participated in various intra-university and inter-university programming contests. I also have solid knowledge of Data Structures, Algorithms, and Database using 
+                    C++, Java, and Python.
+                </li>
+
+                <li>
+                    <b>Web Engineering</b> — I have experience developing e-commerce web applications using HTML, CSS, JavaScript, PHP, and MySQL during my undergraduate studies.
+                </li>
+
+                <li>
+                    <b>Mobile Application Development</b> — I have experience with mobile application development, particularly in Android Studio and Google Firebase.
+                </li>
+
+                <li>
+                    <b>Others</b> — I am proficient in using the Linux Operating System as it is my daily driver. Additionally, I am well-versed in version control using Git and GitHub.
+                </li>
+            </ul>
+          </p>
+          <hr>
+
+        <h3 id="publications">Publications</h3>
         <p>
             <h4>Journals</h4>
             <ol>
@@ -110,38 +166,38 @@
             </ol>
 
         <hr>
-        <h3>Academic Projects</h3>
+        <h3 id="projects">Academic Projects</h3>
         <p>Throughout my bachelor's journey, I participated in several group projects. Here is a list of the projects I was involved in:
         <ul>
-            <li><b><i>MULTICLASS BRAIN TUMOR CLASSIFICATION</i></b> - A Machine learning based thesis project submitted in the 8<sup>th</sup> semester. We implemented 
+            <li><b>MULTICLASS BRAIN TUMOR CLASSIFICATION</b> — A Machine learning based thesis project submitted in the 8<sup>th</sup> semester. We implemented 
                 a Convolutional Neural Network (CNN) model to detect brain tumors from MRI Images.
             </li>
 
-            <li><b><i>RUMOR DETECTION</i></b> - A Machine learning based thesis project submitted the in 7<sup>th</sup> semester. It was a Natural Language Processing (NLP)
+            <li><b>RUMOR DETECTION</b> — A Machine learning based thesis project submitted the in 7<sup>th</sup> semester. It was a Natural Language Processing (NLP)
                 challenge to detect rumorous and non-rumorous text.
             </li>
 
-            <li><b><i>INTEL IMAGE CLASSIFICATION</i></b> - A Machine learning based image classification challenge where we implemented a deep learning model to classify
+            <li><b>INTEL IMAGE CLASSIFICATION</b> — A Machine learning based image classification challenge where we implemented a deep learning model to classify
                 six types of images.
             </li>
 
-            <li><b><i>CUSTOMER CHURN PREDICTION</i></b> - We predicted future customer churn by extracting important insights from customer feedback using Data Science 
+            <li><b>CUSTOMER CHURN PREDICTION</b> — We predicted future customer churn by extracting important insights from customer feedback using Data Science 
                 and Machine Learning.
             </li>
 
-            <li><b><i>FOOD ORDERING WEB APPLICATION</i></b> - A web application written in HTML, CSS, JavaScript, and PHP. This web application enables people to order 
+            <li><b>FOOD ORDERING WEB APPLICATION</b> — A web application written in HTML, CSS, JavaScript, and PHP. This web application enables people to order 
                 food online and vendors to efficiently manage their businesses.
             </li>
 
-            <li><b><i>ONLINE GROCERY SYSTEM</i></b> - It is a complete e-commerce web application written in HTML, CSS, JavaScript, and PHP where people can order grocery 
+            <li><b>ONLINE GROCERY SYSTEM</b> — It is a complete e-commerce web application written in HTML, CSS, JavaScript, and PHP where people can order grocery 
                 items online, vendors can manage their businesses, and an admin/owner can handle the whole system.
             </li>
 
-            <li><b><i>MY DOCTOR APPLICATION</i></b> - This Android application compiles a list of all doctors, hospitals, clinics, and medical emergency contacts in our locality.
+            <li><b>MY DOCTOR APPLICATION</b> — This Android application compiles a list of all doctors, hospitals, clinics, and medical emergency contacts in our locality.
                 Our goal was to be helpful towards my community as a computer science graduate.
             </li>
 
-            <li><b><i>RAIL HELPER</i></b> - This Android application addresses train delays by providing a platform for people to share location-specific train positions. 
+            <li><b>RAIL HELPER</b> — This Android application addresses train delays by providing a platform for people to share location-specific train positions. 
                 The motto is ‘sharing is caring’ — passengers share information for mutual benefit.
             </li>
         </ul>
@@ -151,30 +207,30 @@
         <p>Here are the projects that I completed out of self-interest:
         <ul>
 
-            <li><b><i>QUANTUM PLAYGROUND</i></b> - When I was self-learning, I experimented with various concepts and paradoxes related to Quantum Computing and 
+            <li><b>QUANTUM PLAYGROUND</b> — When I was studying, I experimented with various concepts and paradoxes related to Quantum Computing and 
                 Quantum Machine Learning, as they greatly interest me.
            </li>
 
-            <li><b><i>PENGUIN SPECIES CLASSIFICATION</i></b> - I classified three types of Penguins using Data Science and Machine Learning techniques after performing 
+            <li><b>PENGUIN SPECIES CLASSIFICATION</b> — I classified three types of Penguins using Data Science and Machine Learning techniques after performing 
                 different data visualizations, data cleansing, and feature engineering steps.
            </li>
 
-           <li><b><i>IRIS SPECIES CLASSIFICATION</i></b> - It is also a Data Science and Machine Learning based project where different data visualizations, data
+           <li><b>IRIS SPECIES CLASSIFICATION</b> — It is also a Data Science and Machine Learning based project where different data visualizations, data
             cleansing, and feature engineering steps were performed to extract important features and then classified three types of Iris flowers from those features.
            </li>
 
-           <li><b><i>TITANIC - MACHINE LEARNING FROM DISASTER</i></b> - A Data Science and Machine Learning challenge where I predicted the survival of passengers in the Titanic 
+           <li><b>TITANIC — MACHINE LEARNING FROM DISASTER</b> — A Data Science and Machine Learning challenge where I predicted the survival of passengers in the Titanic 
             disaster using Data Science and Machine Learning techniques after performing different data visualizations, data cleansing, and feature engineering steps.
            </li>
 
-           <li><b><i>BOSTON HOUSING</i></b> - A regression problem where I predicted the price of houses in Boston using a classical machine learning model trained on the 
+           <li><b>BOSTON HOUSING</b> — A regression problem where I predicted the price of houses in Boston using a classical machine learning model trained on the 
             features of houses.
            </li>
 
         </ul>
         </p>
         <hr>
-        <h3>Additionals</h3>
+        <h3 id="awards">Additionals</h3>
         <p>
             <h4>CERTIFICATIONS & TRAINING:</h4>
             Apart from my bachelor's degree, I took additional courses on Coursera during the COVID-19 pandemic lockdown. 
@@ -193,7 +249,8 @@
             </ul>
           </p>
           <hr>
-          <h3>Languages and Tools</h3>
+
+          <h2>Languages and Tools</h2>
             <p align="center"> 
                 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
                 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -214,7 +271,7 @@
             </p>
     </section>
     <section id="contact">
-        <h2>Connect with me</h2>
+        <h2>Contacts</h2>
         <p align="center">
             <a href="https://twitter.com/infamousword361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infamousword361" height="40" width="50" /></a>
             <a href="https://linkedin.com/in/asadullah-bin-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadullah-bin-rahman" height="40" width="50" /></a>
