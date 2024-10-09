@@ -7,9 +7,9 @@ related_posts: false
 img: assets/qc_certificates/WQ2024_QML_Certificate_081_page-0001.jpg
 
 ---
-
+<div id="wqproject">
 {% include figure.liquid loading="eager" path="assets/qc_certificates/WQ2024_QML_Certificate_081_page-0001.jpg" title="Project work" class="img-fluid rounded z-depth-1" %}
-
+</div>
 I am thrilled to share that I got nominated for the Womanium Quantum Solution Launchpad (QSL) fellowship. I am particularly excited about the prospect of working as a research fellow with the Fraunhofer ITWM. Among 4300 participants, only 22 were nominated, and I am fortunate to be one of them. After undergoing 13 weeks of rigorous training, completing assignments, and demonstrating excellence in the Quantum Machine Learning (QML) project, I have secured this position. Here is the <a href = "https://github.com/AsadullahGalib007/QML-for-Conspicuity-Detection-in-Production">GitHub link</a> to my project work. Validate my badge for completing the program on <a href="https://www.virtualbadge.io/certificate-validator?credential=825e074b-9a47-467b-b6d1-2c81ec97d97d">virtualbadge.io</a>.
 
 ---
@@ -24,17 +24,24 @@ The WQ program is an excellent way to learn quantum computing from basic to adva
 ---
 
 Certifications I got from this program:
-
+<div id="qbronze">
 {% include figure.liquid loading="eager" path="assets/qc_certificates/QBronze136-112.jpg" title="QBronze" class="img-fluid rounded z-depth-1" %}
+</div>
 
 ---
+<div id="qnickel">
 {% include figure.liquid loading="eager" path="assets/qc_certificates/QNickel15-188.jpg" title="QNickel" class="img-fluid rounded z-depth-1" %}
+</div>
 
 ---
+<div id="classiq1">
 {% include figure.liquid loading="eager" path="assets/qc_certificates/Classiq_fundamental.jpg" title="Classiq" class="img-fluid rounded z-depth-1" %}
+</div>
 
 ---
+<div id="qml">
 {% include figure.liquid loading="eager" path="assets/qc_certificates/pennylane-womanium-2024.jpg" title="QML certification" class="img-fluid rounded z-depth-1" %}
+</div>
 
 ---
 
