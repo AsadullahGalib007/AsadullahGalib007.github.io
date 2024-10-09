@@ -8,7 +8,7 @@ nav_order: 7
 
 ## My Chess Games
 
-Welcome to my chess games collection. Below are the selected games that I have enjoyed. Care for a game? Challenge me at [lichess](https://lichess.org/?user=AsadullahGalib#friend).
+Welcome to my chess game collection. I am not a chess master and only play in my leisure time. Below are some selected games I have enjoyed.  Care for a game? Challenge me at [lichess](https://lichess.org/?user=AsadullahGalib#friend).
 
 
 <div class="iframe-container">
