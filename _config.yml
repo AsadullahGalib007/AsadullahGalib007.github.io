@@ -127,7 +127,7 @@ cronitor_analytics: fa95fa51afc2ad8d80ff9c1f663d9f66 # cronitor RUM analytics si
 pirsch_analytics: Lvc7TMrVS69M9XzVs4is2JwrgLS6bBfN # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: BEjkjmCdTPmacXJnp5d8fpfUXqx9nIAaIKEEakcuL6s # your google-site-verification ID (Google Search Console)
+google_site_verification: google-site-verification=BEjkjmCdTPmacXJnp5d8fpfUXqx9nIAaIKEEakcuL6s # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
