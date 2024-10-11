@@ -12,6 +12,8 @@ Welcome to my chess game collection. I am not a chess master and only play in my
 
 
 <div class="iframe-container">
+<iframe src="https://lichess.org/embed/game/SCNUTLTh?theme=auto&bg=auto#61" width="100%" height="600" frameborder=0></iframe>
+<iframe src="https://lichess.org/embed/game/rncRaNIh?theme=auto&bg=auto#49" width="100%" height="600" frameborder=0></iframe>
 <iframe src="https://lichess.org/embed/game/w45dtccK?theme=auto&bg=auto" width="100%" height="600" frameborder=0></iframe>
 <iframe src="https://lichess.org/embed/game/jxilWcoQ?theme=auto&bg=auto" width="100%" height="600" frameborder=0></iframe>
 <iframe src="https://lichess.org/embed/game/YHiFxq9U?theme=auto&bg=auto" width="100%" height="600" frameborder=0></iframe>

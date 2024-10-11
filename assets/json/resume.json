@@ -37,16 +37,16 @@
       "startDate": "2023-07-01",
       "endDate": "",
       "summary": "Conducting research in image processing and machine learning. Aiding my supervisor in facilitating research work.",
-      "highlights": ["MRI image denoising using wavelet transform"]
+      "highlights": ["Biomedical Image Processing"]
     },
     {
       "name": "Govt. Shahid Akbar Ali Science and Technology College (SASTC)",
-      "position": "Lecturer",
+      "position": "Lecturer of Computer Science and Engineering",
       "url": "",
       "startDate": "2023-03-01",
       "endDate": "2023-09-01",
       "summary": "Taught undergraduate courses in theory of computation, computer graphics, and machine learning.",
-      "highlights": ["Designed and delivered courses on machine learning and image processing."]
+      "highlights": ["Designed and delivered courses.", "Supervised project works"]
     }
   ],
   "volunteer": [],
@@ -76,18 +76,18 @@
   ],
   "awards": [
     {
-      "title": "Womanium Quantum + AI 2024 Global Summer School Finalist",
+      "title": "Womanium Quantum Solution Launchpad (QSL) fellowship nomination",
       "date": "2024-08-15",
-      "awarder": "Womanium",
+      "awarder": "Womanium Foundation",
       "url": "https://www.virtualbadge.io/certificate-validator?credential=825e074b-9a47-467b-b6d1-2c81ec97d97d",
-      "summary": "Finalist and nominee for the Quantum Solution Launchpad Fellowship."
+      "summary": "I excelled in coursework. Besides, my QML for conspicuity detection in production project was ranked among the best selected projects."
     },
     {
-      "title": "IBM Quantum Challenge 2024 (Rank: 11th Globally)",
+      "title": "IBM Quantum Challenge 2024",
       "date": "2024-06-19",
       "awarder": "IBM",
       "url": "https://github.com/AsadullahGalib007/IBM-Quantum-Challenge-2024-Solution",
-      "summary": "Successfully completed all six labs in the challenge."
+      "summary": "Successfully completed all six labs in the challenge and finished with rank 11."
     },
     {
       "title": "6th Bangladesh Academy of Sciences (BAS) Divisional Science Olympiad",
@@ -171,9 +171,8 @@
       "level": "Advanced",
       "icon": "",
       "keywords": [
-        "Computer Vision",
         "Image Processing",
-        "Natural Language Processing",
+        "Computer Vision",
         "Deep Learning"
       ]
     },
@@ -214,7 +213,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent (IELTS Academic: 6.5)",
+      "fluency": "Fluent (IELTS Academic: 6.5; L/R/S: 6.5, W: 6.0)",
       "icon": ""
     },
     {
@@ -265,21 +264,21 @@
       "url": "https://hstu.ac.bd/teacher/mamun",
       "email": "mamun@hstu.ac.bd",
       "icon": "",
-      "reference": "Professor, Department of Computer Science and Engineering, HSTU"
+      "reference": "Professor of Computer Science and Engineering, Hajee Mohammad Danesh Science and Technology University (HSTU), Dinajpur-5200, Bangladesh"
     },
     {
       "name": "Masud Ibn Afjal",
       "url": "https://hstu.ac.bd/teacher/masud",
       "email": "masud@hstu.ac.bd",
       "icon": "",
-      "reference": "Associate Professor, Department of Computer Science and Engineering, HSTU"
+      "reference": "Associate Professor of Computer Science and Engineering, Hajee Mohammad Danesh Science and Technology University (HSTU), Dinajpur-5200, Bangladesh"
     }
   ],
   "projects": [
     {
       "name": "MRI Image Denoising using Wavelet Transform",
       "summary": "Applying wavelet transform techniques to reduce noise in MRI images and comparing results using metrics such as MSE, PSNR, and SSIM.",
-      "highlights": ["Implemented various wavelet functions (db3, bior6.8, sym4)", "Hard and soft thresholding methods"],
+      "highlights": ["Explored various wavelet functions (db3, bior6.8, sym4), decomposition leveds, optimal threshold value estimation (universal/bayes), thresholding methods (hard/soft) to find the best combination that can mitigate gaussian noise from image"],
       "startDate": "2024-01-01",
       "endDate": "",
       "url": ""
@@ -288,7 +287,7 @@
     {
       "name": "QML for Conspicuity Detection in Production",
       "summary": "Final project for the Womanium Quantum + AI 2024 program that earned me the QSL fellowship nomination. I implemented a Hybrid Quantum Convolutional Neural Network to detect anomalies in production.",
-      "highlights": ["Implemented a 3x3 kernel using Quantum Circuit along with a classical CNN.", "Implemented various layers as ansatz(e) for a Quantum Regression Model and performed comparison."],
+      "highlights": ["MNIST Digit Classification", "Implemented a 3x3 kernel using Quantum Circuit along with a classical CNN.", "Implemented various layers as ansatz(e) for a Quantum Regression Model and performed comparison."],
       "startDate": "2024-07-05",
       "endDate": "2024-08-09",
       "url": "https://github.com/AsadullahGalib007/QML-for-Conspicuity-Detection-in-Production"
