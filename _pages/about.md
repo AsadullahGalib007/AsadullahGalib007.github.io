@@ -26,7 +26,7 @@ I am a Computer Science graduate with a keen interest in Quantum Computing. My e
 - **B.Sc. (Engineering) in Computer Science and Engineering** (Jan 2017 -- Dec, 2022) at Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 
 <h2>Employment</h2>
-- **Research Assistant (RA)** at **IoThink Lab** (July 2023 -- Cont.), Department of Computer Science and Engineering, Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
+- **Research Assistant (RA)** at **IoThink Lab** (July 2023 -- Present), Department of Computer Science and Engineering, Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 - **Lecturer of Computer Science and Engineering** (Mar 2023 -- Sep 2023), Govt. Shahid Akbar Ali Science and Technology College (SASTC) <small style="font-size: 0.8em;">(Affiliated to HSTU)</small>, Bangladesh
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
