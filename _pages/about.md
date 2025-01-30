@@ -22,7 +22,7 @@ I am a Computer Science graduate with a keen interest in Quantum Computing. My e
 **Research Interests:** Image Processing, Machine Learning, Quantum Information, Quantum Machine Learning(QML), Quantum Key Distribution(QKD). You can read my research statement [here](assets/pdf/Asadullah_Research_Statement.pdf).
 
 <h2>Education</h2>
-- **M.Sc. (Engineering) in Computer Science and Engineering** (July 2023 -- Cont.) at Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
+- **M.Sc. (Engineering) in Computer Science and Engineering** (July 2023 -- Present) at Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 - **B.Sc. (Engineering) in Computer Science and Engineering** (Jan 2017 -- Dec, 2022) at Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 
 <h2>Employment</h2>
