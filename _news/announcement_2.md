@@ -5,8 +5,8 @@ date: 2024-08-15 23:00:00 +0600
 inline: false
 related_posts: false
 img: assets/qc_certificates/WQ2024_QML_Certificate_081_page-0001.jpg
----
 
+---
 <div id="wqproject">
 {% include figure.liquid loading="eager" path="assets/qc_certificates/WQ2024_QML_Certificate_081_page-0001.jpg" title="Project work" class="img-fluid rounded z-depth-1" %}
 </div>
@@ -14,8 +14,8 @@ I am thrilled to share that I got nominated for the Womanium Quantum Solution La
 
 ---
 
-The WQ program is an excellent way to learn quantum computing from basic to advanced. I am fortunate enough to have the opportunity to participate in it.
 
+The WQ program is an excellent way to learn quantum computing from basic to advanced. I am fortunate enough to have the opportunity to participate in it.
 <ul>
     <li>Attended keynotes, seminars, and lab tours conducted by researchers from MIT, IBM, NVIDIA, Fraunhofer ITWM, Xanadu, D-Wave, and other industry experts.</li>
     <li>Completed multiple modules from leading Quantum Computing organizations: <b>QBronze</b> and <b>QNickel</b> from <b>QWorld</b>, Quantum Algorithms Development I & II from <b>Classiq</b>, Artificial Intelligence from <b>Womanium AI</b>, and Quantum Machine Learning from <b>Xanadu Pennylane.</b></li>
@@ -24,32 +24,29 @@ The WQ program is an excellent way to learn quantum computing from basic to adva
 ---
 
 Certifications I got from this program:
-
 <div id="qbronze">
 {% include figure.liquid loading="eager" path="assets/qc_certificates/QBronze136-112.jpg" title="QBronze" class="img-fluid rounded z-depth-1" %}
 </div>
 
 ---
-
 <div id="qnickel">
 {% include figure.liquid loading="eager" path="assets/qc_certificates/QNickel15-188.jpg" title="QNickel" class="img-fluid rounded z-depth-1" %}
 </div>
 
 ---
-
 <div id="classiq1">
 {% include figure.liquid loading="eager" path="assets/qc_certificates/Classiq_fundamental.jpg" title="Classiq" class="img-fluid rounded z-depth-1" %}
 </div>
 
 ---
-
 <div id="qml">
 {% include figure.liquid loading="eager" path="assets/qc_certificates/pennylane-womanium-2024.jpg" title="QML certification" class="img-fluid rounded z-depth-1" %}
 </div>
 
 ---
 
-<!--
+
+<!-- 
 
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 

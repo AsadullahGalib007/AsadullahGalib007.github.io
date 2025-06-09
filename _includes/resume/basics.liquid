@@ -18,6 +18,7 @@
         <b>{{ field[0] | replace: '_', ' ' | capitalize }}</b>
       </td>
       <td class="p-1 pl-2 font-weight-light text">
+
         {% if field[0] == 'url' %}
           <a href="{{ field[1] }}" target="_blank" rel="noopener noreferrer">{{ field[1] }}</a>
 
@@ -27,20 +28,23 @@
         {% elsif field[0] == 'location' %}
           {{ field[1].city }}, {{ field[1].region }}
 
-        {% elsif field[0] == 'profiles' %}
+        {% comment %}
+          CORRECTED LINE: Now checks for 'socials' instead of 'profiles'.
+        {% endcomment %}
+        {% elsif field[0] == 'socials' %}
           {% for profile in field[1] %}
             <a href="{{ profile.url }}" target="_blank" rel="noopener noreferrer">{{ profile.network }}</a>
             {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
           {% endfor %}
 
-          {% comment %}
-            NEW: Specific handling for the 'Research Interests' object.
-          {% endcomment %}
+        {% comment %}
+          Specific handling for the 'Research Interests' object.
+        {% endcomment %}
         {% elsif field[0] == 'Research Interests' %}
           {% comment %}
             This joins the 'keywords' array into a single, comma-separated string.
           {% endcomment %}
-          {{ field[1].keywords | join: ', ' }}
+          {{ field[1].keywords | join: ", " }}
 
         {% else %}
           {{ field[1] }}

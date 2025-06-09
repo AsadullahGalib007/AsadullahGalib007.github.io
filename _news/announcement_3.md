@@ -10,5 +10,4 @@ img: assets/hall_of_fames/sci_olympiad.jpg
 I am thrilled to share that I secured 3rd position in the divisional science olympiad phase from the Higher Secondary Group and got selected for the national level. It was a challenging yet rewarding experience, and I am looking forward to representing my division at the national level competition.
 
 ---
-
 {% include figure.liquid loading="eager" path="assets/hall_of_fames/sci_olympiad.jpg" title="Science Olympiad Certificate" class="img-fluid rounded z-depth-1" %}

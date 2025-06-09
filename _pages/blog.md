@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: games
-description: Here are a few games I enjoyed playing.
+description: Here are a few games I enjoyed playing. 
 nav: false
 nav_order: 7
 pagination:
@@ -20,7 +20,7 @@ pagination:
 <iframe src="https://lichess.org/embed/game/jxilWcoQ?theme=auto&bg=auto"
 width=600 height=397 frameborder=0></iframe>
 
-<!--
+<!-- 
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}

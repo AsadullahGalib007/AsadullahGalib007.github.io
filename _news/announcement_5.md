@@ -14,5 +14,4 @@ I am excited to announce that I have successfully completed all six labs, includ
 {% include figure.liquid loading="eager" path="assets/qc_certificates/ibmQCcompletion.jpg" title="IBM Quantum Challenge Completion" class="img-fluid rounded z-depth-1" %}
 
 ---
-
 {% include figure.liquid loading="eager" path="assets/qc_certificates/ibm_qc.jpg" title="IBM Quantum Challenge Certification" class="img-fluid rounded z-depth-1" %}
