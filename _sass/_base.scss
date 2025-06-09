@@ -7,14 +7,17 @@
 h1,
 h2,
 h3,
-.navbar-nav, .nav-item, .nav-link {
+.navbar-nav,
+.nav-item,
+.nav-link {
   text-transform: capitalize;
 }
 
 // galib, to justify article and paragraphs
-article p, li{
-    // galib, to justify the paragraph text
-    text-align: justify;
+article p,
+li {
+  // galib, to justify the paragraph text
+  text-align: justify;
 }
 
 // Typography
@@ -1321,41 +1324,38 @@ ninja-keys::part(ninja-input-wrapper) {
   color: var(--global-text-color);
 }
 
-
 // For my games
 /* Container to hold the iframes */
 .iframe-container {
   display: flex;
   // flex-direction: column;
-  gap: 20px;            /* Space between iframes */
-  flex-wrap: wrap;      /* Allow wrapping */
+  gap: 20px; /* Space between iframes */
+  flex-wrap: wrap; /* Allow wrapping */
 }
 
 /* Style for iframes on larger screens */
 .iframe-container iframe {
-  flex: 1;              /* Ensure equal space for iframes */
-  min-width: 50%;       /* Each iframe takes up 45% of container width */
+  flex: 1; /* Ensure equal space for iframes */
+  min-width: 50%; /* Each iframe takes up 45% of container width */
   // height: 397px;        /* Default height for iframes */
-  max-width: 100%;     /* Restrict maximum width */
+  max-width: 100%; /* Restrict maximum width */
   border: none;
 }
 
 /* For medium screens (tablets and small laptops) */
 @media (max-width: 768px) {
   .iframe-container iframe {
-    min-width: 50%;    /* Take up full width in a single column */
+    min-width: 50%; /* Take up full width in a single column */
     // height: 300px;      /* Smaller height for medium screens */
-    max-width: 100%;    /* Remove any max width */
-
+    max-width: 100%; /* Remove any max width */
   }
 }
 
 /* For small screens (mobile devices) */
 @media (max-width: 480px) {
   .iframe-container iframe {
-    min-width: 50%;    /* Full width in a single column */
+    min-width: 50%; /* Full width in a single column */
     // height: 250px;      /* Smaller height for mobile screens */
-    max-width: 100%;    /* Remove any max width */
+    max-width: 100%; /* Remove any max width */
   }
 }
-

@@ -1,34 +1,41 @@
 {
   "basics": {
     "name": "Asadullah Bin Rahman",
-    "label": "Research Assistant",
-    "image": "",
+    "title": "AI/ML Researcher | Quantum Computing Enthusiast",
+    "image": "assets/img/prof_pic.png",
     "email": "galib.hstu.cse17@gmail.com",
     "phone": "",
     "url": "https://asadullahgalib007.github.io",
     "summary": "Research Assistant at IoThink Lab, specializing in image processing, machine learning, and quantum information.",
     "location": {
       "address": "Khansama",
-      "postalCode": "5200",
+      "postalCode": "5230",
       "city": "Dinajpur",
       "countryCode": "BD",
       "region": "Bangladesh"
     },
-
-    "profiles": [
+    "socials": [
       {
         "network": "LinkedIn",
-        "username": "AsadullahBinRahman",
-        "url": "https://www.linkedin.com/in/asadullah-bin-rahman"
+        "username": "Asadullah Bin Rahman",
+        "url": "https://www.linkedin.com/in/asadullah007"
       },
       {
         "network": "GitHub",
         "username": "AsadullahGalib007",
         "url": "https://github.com/AsadullahGalib007"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Asadullah Bin Rahman",
+        "url": "https://scholar.google.com/citations?user=mhuUG2oAAAAJ&hl=en"
       }
-    ]
+    ],
+    "Research Interests": {
+      "name": "Research Interests",
+      "keywords": ["Quantum Optimization", "Quantum Key Distribution", "Quantum Machine Learning"]
+    }
   },
-
   "work": [
     {
       "name": "IoThink Lab, HSTU",
@@ -45,11 +52,19 @@
       "url": "",
       "startDate": "2023-03-01",
       "endDate": "2023-09-01",
-      "summary": "Taught undergraduate courses in theory of computation, computer graphics, and machine learning.",
+      "summary": "Taught: Theory of Computation, Computer Graphics, Machine Learning. ",
       "highlights": ["Designed and delivered courses.", "Supervised project works"]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "QBangladesh (QWorld)",
+      "position": "Mentor",
+      "startDate": "2025-04",
+      "endDate": "Present",
+      "summary": "Mentoring students and promoting quantum literacy in Bangladesh. "
+    }
+  ],
   "education": [
     {
       "institution": "Hajee Mohammad Danesh Science and Technology University (HSTU)",
@@ -59,7 +74,7 @@
       "studyType": "M.Sc.(Engineering) in Computer Science and Engineering",
       "startDate": "2023-07-01",
       "endDate": "",
-      "highlights": ["GPA: 3.625/4.00 (up to first semester)"],
+      "highlights": ["GPA: 3.625/4.00 (Thesis in progress)"],
       "courses": []
     },
     {
@@ -76,37 +91,65 @@
   ],
   "awards": [
     {
-      "title": "Womanium Quantum Solution Launchpad (QSL) fellowship nomination",
-      "date": "2024-08-15",
+      "title": "Unitary Hack 2025: For Open Source Contributions ",
+      "date": "2025-06",
+      "awarder": "Unitary Foundation",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "YQuantum 2025: Solved BlueQubit's Peaked Circuits Challenge ",
+      "date": "2025-04",
+      "awarder": "BlueQubit & Yale University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "MIT iQuHACK 2025: Solved IONQ's Max Cut problem ",
+      "date": "2025-02",
+      "awarder": "MIT",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Womanium Quantum + Al 2024: Program finalist and QSL fellowship nominee ",
+      "date": "2024-08",
       "awarder": "Womanium Foundation",
-      "url": "https://www.virtualbadge.io/certificate-validator?credential=825e074b-9a47-467b-b6d1-2c81ec97d97d",
-      "summary": "I excelled in coursework. Besides, my QML for conspicuity detection in production project was ranked among the best selected projects."
+      "url": "",
+      "summary": ""
     },
     {
-      "title": "IBM Quantum Challenge 2024",
-      "date": "2024-06-19",
+      "title": "IBM Quantum Challenge 2024: Ranked 11th globally ",
+      "date": "2024-06",
       "awarder": "IBM",
-      "url": "https://github.com/AsadullahGalib007/IBM-Quantum-Challenge-2024-Solution",
-      "summary": "Successfully completed all six labs in the challenge and finished with rank 11."
+      "url": "",
+      "summary": ""
     },
     {
-      "title": "6th Bangladesh Academy of Sciences (BAS) Divisional Science Olympiad",
-      "date": "2016-01-08",
-      "awarder": "Bangladesh Academy of Sciences",
-      "url": "/al-folio/news/announcement_3/",
-      "summary": "Secured 3rd position in the division and was selected for the national level."
+      "title": "6th BAS Science Olympiad: Division 3rd and National level nominee ",
+      "date": "2016-01",
+      "awarder": "BAS",
+      "url": "",
+      "summary": ""
     },
     {
-      "title": "5th Physics Olympiad organized by Dinajpur Science Academy",
-      "date": "2015-09-04",
-      "awarder": "Dinajpur Science Academy",
-      "url": "/al-folio/news/announcement_4/",
-      "summary": "Achieved 7th position in the Physics Olympiad."
+      "title": "5th DSA Physics Olympiad: 7th Place ",
+      "date": "2015-09",
+      "awarder": "DSA",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Womanium Global Quantum+AI Badge 2024",
+      "name": "QClass24/25 Fall Semester",
+      "date": "2024-12",
+      "issuer": "QWorld",
+      "url": "https://asadullahgalib007.github.io/news/announcement_4/",
+      "icon": ""
+    },
+    {
+      "name": "Womanium Global Quantum+AI 2024",
       "date": "2024-10-03",
       "issuer": "WOMANIUM Foundation",
       "url": "https://www.virtualbadge.io/certificate-validator?credential=825e074b-9a47-467b-b6d1-2c81ec97d97d",
@@ -154,60 +197,45 @@
       "url": "https://www.coursera.org/account/accomplishments/specialization/6PL6V9V6K2F9",
       "icon": ""
     }
-
   ],
   "publications": [
+    {
+      "name": "Mitigating Noise from Biomedical Images Using Wavelet Transform Techniques",
+      "publisher": "2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)",
+      "releaseDate": "2025-02-15",
+      "url": "https://doi.org/10.1109/ECCE64574.2025.11013062",
+      "summary": "Medical imaging plays a pivotal role in modern healthcare, enabling accurate diagnosis and effective treatment planning across various medical conditions. Advanced modalities, such as magnetic resonance imaging (MRI), computed tomography (CT), and ultrasound, offer critical insights into the structure and function of the human body. However, these images are often degraded by noise introduced during acquisition or processing, potentially obscuring vital diagnostic details and impacting clinical decision-making. Furthermore, enhancement techniques like histogram equalization, while improving visual appeal, may inadvertently amplify existing noise, such as salt-and-pepper distortions. This study investigates wavelet transform-based denoising methods to mitigate noise in medical images effectively. Our primary goal is to identify the optimal combination of threshold values, decomposition levels, and wavelet types to achieve superior denoising performance, ensuring enhanced diagnostic accuracy. Our study finds that the db3 wavelet with universal thresholding achieved the best denoising effect across various noise levels. For noise standard deviations of σ = 10, 15, and 25, the best PSNR values obtained are 29.203 dB, 27.791 dB, and 25.194 dB, respectively. These results establish a foundation for developing hybrid wavelet-deep learning approaches for medical image denoising."
+    },
     {
       "name": "Enhanced Brain Tumor Classification from MRI Images Using Deep Learning Model",
       "publisher": "2023 26th International Conference on Computer and Information Technology (ICCIT)",
       "releaseDate": "2023-12-01",
       "url": "https://doi.org/10.1109/ICCIT60459.2023.10441064",
-      "summary": "In the realm of image classification, traditional algorithms, encompassing both machine learning and deep learning, grapple with formidable challenges arising from uneven pixel ranges and dimensionality reduction. This results in a significant impediment to achieving accurate image categorization.Numerous examples of such traditional methods, including KNN, Random Forest, SVM, DNN, CNN etc, have encountered persistent issues such as inefficient performance of feature engineering, limited accuracy, etc. In response to these challenges, this paper introduces a novel image classification method that integrates pixel mapping, DWT, and CNN for improved efficiency and reliability. By resolving irregular pixel ranges through initial pixel mapping, our method establishes uniformity as a foundation for subsequent image analysis. Subsequently, DWT is employed to dissect and reduce image dimensionality, extracting essential features while lowering computational complexity. This two-step preprocessing approach forms a robust foundation for effective data classification. Within this framework, our proposed CNN architecture plays a pivotal role, utilizing both spectral and spatial information to address image categorization challenges. The network’s capacity to learn complex patterns enhances classification accuracy. In extensive evaluations, our methodology surpasses conventional classification techniques, yielding impressive results. With an Overall Accuracy (OA) of 96.9% and a Kappa statistic of 95.16%, our method showcases excellence and practical potential. These compelling achievements underscore the significance of our approach in tackling image classification challenges, paving the way for enhanced precision and efficiency across various domains."
+      "summary": "In the realm of image classification, traditional algorithms, encompassing both machine learning and deep learning, grapple with formidable challenges arising from uneven pixel ranges and dimensionality reduction. This results in a significant impediment to achieving accurate image categorization.Numerous examples of such traditional methods, including KNN, Random Forest, SVM, DNN, CNN etc, have encountered persistent issues such as inefficient performance of feature engineering, limited accuracy, etc. In response to these challenges, this paper introduces a novel image classification method that integrates pixel mapping, DWT, and CNN for improved efficiency and reliability. By resolving irregular pixel ranges through initial pixel mapping, our method establishes uniformity as a foundation for subsequent image analysis. Subsequently, DWT is employed to dissect and reduce image dimensionality, extracting essential features while lowering computational complexity. This two-step preprocessing approach forms a robust foundation for effective data classification. Within this framework, our proposed CNN architecture plays a pivotal role, utilizing both spectral and spatial information to address image categorization challenges. The network's capacity to learn complex patterns enhances classification accuracy. In extensive evaluations, our methodology surpasses conventional classification techniques, yielding impressive results. With an Overall Accuracy (OA) of 96.9% and a Kappa statistic of 95.16%, our method showcases excellence and practical potential. These compelling achievements underscore the significance of our approach in tackling image classification challenges, paving the way for enhanced precision and efficiency across various domains."
     }
   ],
   "skills": [
     {
-      "name": "Machine Learning",
-      "level": "Advanced",
-      "icon": "",
-      "keywords": [
-        "Image Processing",
-        "Computer Vision",
-        "Deep Learning"
-      ]
+      "name": "Quantum Computing",
+      "level": "Proficient",
+      "keywords": ["Qiskit", "Cirq", "PennyLane", "Classiq", "Quantum Algorithms", "Quantum Machine Learning", "Quantum Key Distribution"]
     },
     {
-      "name": "Quantum Computing",
-      "level": "Intermediate",
-      "icon": "",
-      "keywords": [
-        "Quantum Machine Learning",
-        "Quantum Error Correction"
-      ]
+      "name": "Machine Learning",
+      "level": "Proficient",
+      "keywords": ["NumPy", "Pandas", "SciPy", "Matplotlib", "OpenCV", "PyTorch", "TensorFlow", "Image Processing", "Computer Vision"]
     },
     {
       "name": "Programming",
       "level": "Advanced",
       "icon": "",
-      "keywords": [
-        "C++",
-        "Java",
-        "Python",
-        "Data Structures",
-        "Algorithms"
-      ]
+      "keywords": ["C++", "Java", "Python", "Data Structures", "Algorithms", "Databases"]
     },
     {
       "name": "Web Development",
       "level": "Intermediate",
       "icon": "",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "PHP",
-        "MySQL"
-      ]
+      "keywords": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"]
     }
   ],
   "languages": [
@@ -222,42 +250,40 @@
       "icon": ""
     }
   ],
-
   "interests": [
-  {
-    "name": "Competitive Programming",
-    "icon": "",
-    "keywords": [
-      {
-        "keyword": "Codeforces",
-        "url": "http://codeforces.com/profile/asadullah_galib"
-      },
-      {
-        "keyword": "HackerRank",
-        "url": "https://www.hackerrank.com/asadullahgalib01"
-      },
-      {
-        "keyword": "UVa",
-        "url": "https://uhunt.onlinejudge.org/id/939261"
-      }
-    ]
-  },
-  {
-    "name": "Chess",
-    "icon": "",
-    "keywords": [
-      {
-        "keyword": "Lichess",
-        "url": "https://lichess.org/@/AsadullahGalib"
-      },
-      {
-        "keyword": "Chess.com",
-        "url": "https://www.chess.com/member/asadullahgalib"
-      }
-    ]
-  }
+    {
+      "name": "Competitive Programming",
+      "icon": "",
+      "keywords": [
+        {
+          "keyword": "Codeforces",
+          "url": "http://codeforces.com/profile/asadullah_galib"
+        },
+        {
+          "keyword": "HackerRank",
+          "url": "https://www.hackerrank.com/asadullahgalib01"
+        },
+        {
+          "keyword": "UVa",
+          "url": "https://uhunt.onlinejudge.org/id/939261"
+        }
+      ]
+    },
+    {
+      "name": "Chess",
+      "icon": "",
+      "keywords": [
+        {
+          "keyword": "Lichess",
+          "url": "https://lichess.org/@/AsadullahGalib"
+        },
+        {
+          "keyword": "Chess.com",
+          "url": "https://www.chess.com/member/asadullahgalib"
+        }
+      ]
+    }
   ],
-
   "references": [
     {
       "name": "Dr. Md. Abdulla Al Mamun",
@@ -276,22 +302,58 @@
   ],
   "projects": [
     {
+      "name": "Guava Fruit Disease Dataset @ IoThink Lab",
+      "startDate": "2023-01-01",
+      "endDate": "2024-11-01",
+      "url": "",
+      "summary": "Collaborated on dataset collection for interdisciplinary research.",
+      "highlights": []
+    },
+    {
       "name": "MRI Image Denoising using Wavelet Transform",
       "summary": "Applying wavelet transform techniques to reduce noise in MRI images and comparing results using metrics such as MSE, PSNR, and SSIM.",
-      "highlights": ["Explored various wavelet functions (db3, bior6.8, sym4), decomposition leveds, optimal threshold value estimation (universal/bayes), thresholding methods (hard/soft) to find the best combination that can mitigate gaussian noise from image"],
+      "highlights": [
+        "Explored various wavelet functions (db3, bior6.8, sym4), decomposition leveds, optimal threshold value estimation (universal/bayes), thresholding methods (hard/soft) to find the best combination that can mitigate gaussian noise from image"
+      ],
       "startDate": "2024-01-01",
       "endDate": "",
       "url": ""
     },
-
+    {
+      "name": "Quantum Variational Classifier @ Womanium Program",
+      "startDate": "2024-08",
+      "endDate": "2024-08",
+      "url": "",
+      "summary": "Implemented a quantum classifier for Penguin Species Classification.",
+      "highlights": []
+    },
+    {
+      "name": "Quanvolutional Neural Networks @ Womanium Program",
+      "startDate": "2024-08",
+      "endDate": "2024-08",
+      "url": "",
+      "summary": "Developed a hybrid quantum convolutional model for MNIST Digit Classification.",
+      "highlights": []
+    },
+    {
+      "name": "Quantum Regression Model @ Womanium Program",
+      "startDate": "2024-08",
+      "endDate": "2024-08",
+      "url": "",
+      "summary": "Implemented a Quantum Machine Learning Model to learn and predict the sine function on the interval [0, 2π].",
+      "highlights": []
+    },
     {
       "name": "QML for Conspicuity Detection in Production",
       "summary": "Final project for the Womanium Quantum + AI 2024 program that earned me the QSL fellowship nomination. I implemented a Hybrid Quantum Convolutional Neural Network to detect anomalies in production.",
-      "highlights": ["MNIST Digit Classification", "Implemented a 3x3 kernel using Quantum Circuit along with a classical CNN.", "Implemented various layers as ansatz(e) for a Quantum Regression Model and performed comparison."],
+      "highlights": [
+        "MNIST Digit Classification",
+        "Implemented a 3x3 kernel using Quantum Circuit along with a classical CNN.",
+        "Implemented various layers as ansatz(e) for a Quantum Regression Model and performed comparison."
+      ],
       "startDate": "2024-07-05",
       "endDate": "2024-08-09",
       "url": "https://github.com/AsadullahGalib007/QML-for-Conspicuity-Detection-in-Production"
     }
-
   ]
 }

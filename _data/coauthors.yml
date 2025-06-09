@@ -1,9 +1,9 @@
 "Rashedul":
-  - firstname: ["Md.","M. R.", "Md. Rashedul Islam"]
+  - firstname: ["Md.", "M. R.", "Md. Rashedul Islam"]
     url: https://scholar.google.com/citations?user=QPref34AAAAJ&hl=en
 
 "Sohrawordi":
-  - firstname: ["Md.","M. S.", "Md. Sohrawordi"]
+  - firstname: ["Md.", "M. S.", "Md. Sohrawordi"]
     url: https://scholar.google.com/citations?user=rfI19eMAAAAJ&hl=en
 
 "Nahid":
@@ -14,6 +14,13 @@
   - firstname: ["Md. Touhid Islam", "M. T."]
     url: https://scholar.google.com/citations?user=UNhkkLcAAAAJ&hl=en
 
+"Afjal":
+  - firstname: ["Masud Ibn", "M. I.", "Masud Ibn Afjal"]
+    url: https://scholar.google.com/citations?user=XslNFD4AAAAJ&hl=en
+
+"Mamun":
+  - firstname: ["Md. Abdulla Al", "M. A. A.", "Md. Abdulla Al Mamun"]
+    url: https://scholar.google.com/citations?user=MagWAUwAAAAJ&hl=en
 #   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
 #     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
