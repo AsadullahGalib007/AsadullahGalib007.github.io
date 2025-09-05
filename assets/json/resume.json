@@ -1,19 +1,19 @@
 {
   "basics": {
-    "name": "Asadullah Bin Rahman",
-    "title": "AI/ML Researcher | Quantum Computing Enthusiast",
-    "image": "assets/img/prof_pic.png",
-    "email": "galib.hstu.cse17@gmail.com",
-    "phone": "",
-    "url": "https://asadullahgalib007.github.io",
-    "summary": "Research Assistant at IoThink Lab, specializing in image processing, machine learning, and quantum information.",
-    "location": {
-      "address": "Khansama",
-      "postalCode": "5230",
-      "city": "Dinajpur",
-      "countryCode": "BD",
-      "region": "Bangladesh"
-    },
+   "name": "Asadullah Bin Rahman",
+   "title": "Lecturer | AI/ML Researcher | Quantum Computing Enthusiast",
+   "image": "assets/img/prof_pic.png",
+   "email": "galib.hstu.cse17@gmail.com",
+   "phone": "",
+   "url": "https://asadullahgalib007.github.io",
+   "summary": "Lecturer of Computer Science and Engineering at World University of Bangladesh, specializing in quantum computing, machine learning, and biomedical image processing.",
+   "location": {
+     "address": "Khansama",
+     "postalCode": "5230",
+     "city": "Dhaka",
+     "countryCode": "BD",
+     "region": "Bangladesh"
+   },
     "socials": [
       {
         "network": "LinkedIn",
@@ -36,26 +36,35 @@
       "keywords": ["Quantum Optimization", "Quantum Key Distribution", "Quantum Machine Learning"]
     }
   },
-  "work": [
-    {
-      "name": "IoThink Lab, HSTU",
-      "position": "Research Assistant",
-      "url": "",
-      "startDate": "2023-07-01",
-      "endDate": "",
-      "summary": "Conducting research in image processing and machine learning. Aiding my supervisor in facilitating research work.",
-      "highlights": ["Biomedical Image Processing"]
-    },
-    {
-      "name": "Govt. Shahid Akbar Ali Science and Technology College (SASTC)",
-      "position": "Lecturer of Computer Science and Engineering",
-      "url": "",
-      "startDate": "2023-03-01",
-      "endDate": "2023-09-01",
-      "summary": "Taught: Theory of Computation, Computer Graphics, Machine Learning. ",
-      "highlights": ["Designed and delivered courses.", "Supervised project works"]
-    }
-  ],
+"work": [
+ {
+   "name": "World University of Bangladesh",
+   "position": "Lecturer of Computer Science and Engineering",
+   "url": "",
+   "startDate": "2025-07-01",
+   "endDate": "",
+   "summary": "Teaching undergraduate courses in Computer Science and Engineering. Mentoring students in research and academic projects.",
+   "highlights": ["Student mentorship and guidance", "OBE curriculum", "Bloom's taxonomy"]
+ },
+ {
+   "name": "IoThink Lab, HSTU",
+   "position": "Research Assistant",
+   "url": "",
+   "startDate": "2023-07-01",
+   "endDate": "",
+   "summary": "Conducting research in image processing and machine learning. Aiding my supervisor in facilitating research work.",
+   "highlights": ["Biomedical Image Processing"]
+ },
+ {
+   "name": "Govt. Shahid Akbar Ali Science and Technology College (SASTC)",
+   "position": "Lecturer of Computer Science and Engineering",
+   "url": "",
+   "startDate": "2023-03-01",
+   "endDate": "2023-09-01",
+   "summary": "Taught: Theory of Computation, Computer Graphics, Machine Learning.",
+   "highlights": ["Designed and delivered courses.", "Supervised project works"]
+ }
+],
   "volunteer": [
     {
       "organization": "QBangladesh (QWorld)",
@@ -199,19 +208,29 @@
     }
   ],
   "publications": [
+  {
+   "name": "Systematic Evaluation of Wavelet-Based Denoising for MRI Brain Images: Optimal Configurations and Performance Benchmarks",
+   "publisher": "arXiv preprint arXiv:2508.15011",
+   "releaseDate": "2025-08-20",
+   "url": "https://arxiv.org/abs/2508.15011"
+ },
+ {
+   "name": "Deep Learning Architectures for Medical Image Denoising: A Comparative Study of CNN-DAE, CADTra, and DCMIEDNet",
+   "publisher": "arXiv preprint arXiv:2508.17223",
+   "releaseDate": "2025-08-25",
+   "url": "https://arxiv.org/abs/2508.17223"
+ },
     {
       "name": "Mitigating Noise from Biomedical Images Using Wavelet Transform Techniques",
       "publisher": "2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)",
       "releaseDate": "2025-02-15",
-      "url": "https://doi.org/10.1109/ECCE64574.2025.11013062",
-      "summary": "Medical imaging plays a pivotal role in modern healthcare, enabling accurate diagnosis and effective treatment planning across various medical conditions. Advanced modalities, such as magnetic resonance imaging (MRI), computed tomography (CT), and ultrasound, offer critical insights into the structure and function of the human body. However, these images are often degraded by noise introduced during acquisition or processing, potentially obscuring vital diagnostic details and impacting clinical decision-making. Furthermore, enhancement techniques like histogram equalization, while improving visual appeal, may inadvertently amplify existing noise, such as salt-and-pepper distortions. This study investigates wavelet transform-based denoising methods to mitigate noise in medical images effectively. Our primary goal is to identify the optimal combination of threshold values, decomposition levels, and wavelet types to achieve superior denoising performance, ensuring enhanced diagnostic accuracy. Our study finds that the db3 wavelet with universal thresholding achieved the best denoising effect across various noise levels. For noise standard deviations of σ = 10, 15, and 25, the best PSNR values obtained are 29.203 dB, 27.791 dB, and 25.194 dB, respectively. These results establish a foundation for developing hybrid wavelet-deep learning approaches for medical image denoising."
+      "url": "https://doi.org/10.1109/ECCE64574.2025.11013062"
     },
     {
       "name": "Enhanced Brain Tumor Classification from MRI Images Using Deep Learning Model",
       "publisher": "2023 26th International Conference on Computer and Information Technology (ICCIT)",
       "releaseDate": "2023-12-01",
-      "url": "https://doi.org/10.1109/ICCIT60459.2023.10441064",
-      "summary": "In the realm of image classification, traditional algorithms, encompassing both machine learning and deep learning, grapple with formidable challenges arising from uneven pixel ranges and dimensionality reduction. This results in a significant impediment to achieving accurate image categorization.Numerous examples of such traditional methods, including KNN, Random Forest, SVM, DNN, CNN etc, have encountered persistent issues such as inefficient performance of feature engineering, limited accuracy, etc. In response to these challenges, this paper introduces a novel image classification method that integrates pixel mapping, DWT, and CNN for improved efficiency and reliability. By resolving irregular pixel ranges through initial pixel mapping, our method establishes uniformity as a foundation for subsequent image analysis. Subsequently, DWT is employed to dissect and reduce image dimensionality, extracting essential features while lowering computational complexity. This two-step preprocessing approach forms a robust foundation for effective data classification. Within this framework, our proposed CNN architecture plays a pivotal role, utilizing both spectral and spatial information to address image categorization challenges. The network's capacity to learn complex patterns enhances classification accuracy. In extensive evaluations, our methodology surpasses conventional classification techniques, yielding impressive results. With an Overall Accuracy (OA) of 96.9% and a Kappa statistic of 95.16%, our method showcases excellence and practical potential. These compelling achievements underscore the significance of our approach in tackling image classification challenges, paving the way for enhanced precision and efficiency across various domains."
+      "url": "https://doi.org/10.1109/ICCIT60459.2023.10441064"
     }
   ],
   "skills": [
