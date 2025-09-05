@@ -17,16 +17,21 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-As a Computer Science graduate now completing my Master's, I've found my passion at the intersection of AI and the quantum realm. Though I don't have a formal physics background, I've eagerly bridged that gap through self-directed learning and immersive experiences. I've thrived in challenging environments like the Womanium Quantum + AI program, where I was honored to be a program finalist and a QSL fellowship nominee, and the IBM Quantum Challenge 2024, where I proudly achieved an 11th global ranking. These opportunities, along with hackathons at MIT and contributions to open-source projects, have allowed me to build practical skills and a deep appreciation for quantum problem-solving. My commitment to this field is ongoing as I continue to deepen my knowledge in advanced quantum algorithms, optimizations, and QKD. Now, I'm actively seeking to channel this dedication into a second Master’s or a PhD program, with the goal of contributing to research in Quantum Optimization and Quantum Machine Learning.
+I'm Asadullah Bin Rahman, a passionate researcher and educator specializing in quantum computing and machine learning. Currently serving as a Lecturer of Computer Science and Engineering at World University of Bangladesh, I explore the intersection of quantum algorithms and artificial intelligence to solve complex computational problems.
 
+My research spans quantum machine learning, medical image processing, and computer vision, with published work on brain tumor classification and MRI image denoising. I'm proficient in quantum computing frameworks like Qiskit, Cirq, and PennyLane, developing hybrid quantum-classical models for classification and anomaly detection.
 
-**Research Interests:** Image Processing, Machine Learning, Quantum Optimization, Quantum Machine Learning(QML), Quantum Key Distribution(QKD). You can read my research statement [here](assets/pdf/Asadullah_Research_Statement.pdf).
+As an active contributor to the quantum computing community, I've achieved notable recognition including ranking 11th globally in IBM Quantum Challenge 2024, winning at MIT iQuHACK 2025, and being selected as a Womanium Quantum + AI program finalist. I hold advanced certifications in quantum algorithms and maintain a strong competitive programming background. Beyond research, I'm passionate about advancing quantum education and bridging the gap between theoretical concepts and practical applications.
+
+**Research Interests:** Image Processing, Machine Learning, Quantum Computing.
+<!-- You can read my research statement [here](assets/pdf/Asadullah_Research_Statement.pdf). -->
 
 <h2>Education</h2>
 - **M.Sc. (Engineering) in Computer Science and Engineering** (July 2023 -- Present) at Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
-- **B.Sc. (Engineering) in Computer Science and Engineering** (Jan 2017 -- Dec, 2022) at Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
+- **B.Sc. (Engineering) in Computer Science and Engineering** (Jan 2017 -- Dec 2022) at Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 
 <h2>Employment</h2>
+- **Lecturer of Computer Science and Engineering** (July 2025 -- Present), World University of Bangladesh (WUB), Dhaka, Bangladesh
 - **Research Assistant (RA)** at **IoThink Lab** (July 2023 -- Present), Department of Computer Science and Engineering, Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 - **Lecturer of Computer Science and Engineering** (Mar 2023 -- Sep 2023), Govt. Shahid Akbar Ali Science and Technology College (SASTC) <small style="font-size: 0.8em;">(Affiliated to HSTU)</small>, Bangladesh
 
