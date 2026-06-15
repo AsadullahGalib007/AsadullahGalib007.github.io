@@ -1,0 +1,7 @@
+# URLs excluded from the broken-link check.
+# These are live pages that return HTTP 403 to automated bots (lychee in CI)
+# but work fine in a browser. Listed here to avoid false-positive failures.
+https?://(www\.)?reddit\.com
+https?://(www\.)?intmath\.com
+https?://(www\.)?stackoverflow\.com
+https?://(www\.)?dimensions\.ai

@@ -17,17 +17,16 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm Asadullah Bin Rahman, a passionate researcher and educator specializing in quantum computing and machine learning. Currently serving as a Lecturer of Computer Science and Engineering at World University of Bangladesh, I explore the intersection of quantum algorithms and artificial intelligence to solve complex computational problems.
+I'm Asadullah Bin Rahman, a Lecturer of Computer Science and Engineering at World University of Bangladesh. My work focuses on image processing, machine learning, and quantum computing.
 
-My research spans quantum machine learning, medical image processing, and computer vision, with published work on brain tumor classification and MRI image denoising. I'm proficient in quantum computing frameworks like Qiskit, Cirq, and PennyLane, developing hybrid quantum-classical models for classification and anomaly detection.
-
-As an active contributor to the quantum computing community, I've achieved notable recognition including ranking 11th globally in IBM Quantum Challenge 2024, winning at MIT iQuHACK 2025, and being selected as a Womanium Quantum + AI program finalist. I hold advanced certifications in quantum algorithms and maintain a strong competitive programming background. Beyond research, I'm passionate about advancing quantum education and bridging the gap between theoretical concepts and practical applications.
+I have published research on brain tumor classification and MRI image denoising, and I work with quantum computing frameworks such as Qiskit, Cirq, and PennyLane to build hybrid quantum-classical models. I also mentor students in quantum computing through QBangladesh (QWorld).
 
 **Research Interests:** Image Processing, Machine Learning, Quantum Computing.
 <!-- You can read my research statement [here](assets/pdf/Asadullah_Research_Statement.pdf). -->
 
+
 <h2>Education</h2>
-- **M.Sc. (Engineering) in Computer Science and Engineering** (July 2023 -- Present) at Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
+- **M.Sc. (Engineering) in Computer Science and Engineering** (July 2023 -- July 2025) at Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 - **B.Sc. (Engineering) in Computer Science and Engineering** (Jan 2017 -- Dec 2022) at Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 
 <h2>Employment</h2>

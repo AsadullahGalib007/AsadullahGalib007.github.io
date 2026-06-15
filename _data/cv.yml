@@ -1,0 +1,248 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Asadullah Bin Rahman
+    - name: Research Interests
+      value: Image Processing, Machine Learning, Quantum Computing
+    - name: Email
+      value: '<a href="mailto:galib.hstu.cse17@gmail.com">galib.hstu.cse17@gmail.com</a>'
+    - name: Profiles
+      links:
+        - name: Website
+          link: https://asadullahgalib007.github.io
+        - name: Google Scholar
+          link: https://scholar.google.com/citations?user=mhuUG2oAAAAJ&hl=en
+        - name: LinkedIn
+          link: https://www.linkedin.com/in/asadullah007
+        - name: GitHub
+          link: https://github.com/AsadullahGalib007
+
+- title: Employment
+  type: time_table
+  contents:
+    - year: 07/25 – Present
+      title: Lecturer, Computer Science and Engineering
+      institution: World University of Bangladesh, Dhaka, Bangladesh
+    - year: 07/23 – 07/25
+      title: Research Assistant
+      institution: IoThink Lab, Department of Computer Science and Engineering, HSTU
+    - year: 03/23 – 09/23
+      title: Lecturer, Computer Science and Engineering
+      institution: Govt. Shahid Akbar Ali Science and Technology College (Affiliated to HSTU), Bangladesh
+
+- title: Education
+  type: time_table
+  contents:
+    - year: 07/23 – 07/25
+      title: MSc in Computer Science and Engineering
+      institution: '<a href="https://hstu.ac.bd/" target="_blank">Hajee Mohammad Danesh Science and Technology University (HSTU)</a>, Bangladesh'
+      description:
+        - "CGPA: 3.547 / 4.00"
+    - year: 01/17 – 12/22
+      title: BSc (Engineering) in Computer Science and Engineering
+      institution: '<a href="https://hstu.ac.bd/" target="_blank">Hajee Mohammad Danesh Science and Technology University (HSTU)</a>, Bangladesh'
+      description:
+        - "CGPA: 3.31 / 4.00"
+
+- title: Skills
+  type: map
+  contents:
+    - name: Quantum Computing
+      value: "Proficient in Qiskit, Cirq, PennyLane, Classiq; Expertise in Quantum Algorithms, Quantum Machine Learning, Quantum Key Distribution"
+    - name: Machine Learning
+      value: "Proficient in NumPy, Pandas, SciPy, Matplotlib, OpenCV, PyTorch, TensorFlow; Expertise in Image Processing, Computer Vision"
+    - name: Programming
+      value: 'C++, Java, Python; Data Structures, Algorithms, Databases; Solved 300+ problems on <a href="http://codeforces.com/profile/asadullah_galib" target="_blank">CodeForces</a>, <a href="https://www.hackerrank.com/asadullahgalib01" target="_blank">HackerRank</a>, and <a href="https://uhunt.onlinejudge.org/id/939261" target="_blank">UVa</a>'
+    - name: Languages
+      value: "Bangla (Native), English (IELTS Academic: 6.5, CEFR Level: B2)"
+    - name: Others
+      value: Linux, Git, LaTeX
+
+- title: Research Publications
+  type: time_table
+  contents:
+    - year: 2025
+      title: "Deep Learning Architectures for Medical Image Denoising: A Comparative Study of CNN-DAE, CADTra, and DCMIEDNet"
+      maindescription: "<strong>A. B. Rahman</strong>, M. I. Afjal, and M. A. A. Mamun. <em>arXiv preprint arXiv:2508.17223</em> [eess.IV], 2025."
+      linkitems:
+        - linkname: arXiv
+          link: https://arxiv.org/abs/2508.17223
+    - year: 2025
+      title: "Systematic Evaluation of Wavelet-Based Denoising for MRI Brain Images: Optimal Configurations and Performance Benchmarks"
+      maindescription: "<strong>A. B. Rahman</strong>, M. I. Afjal, and M. A. A. Mamun. <em>arXiv preprint arXiv:2508.15011</em> [eess.IV], 2025."
+      linkitems:
+        - linkname: arXiv
+          link: https://arxiv.org/abs/2508.15011
+    - year: 2025
+      title: Mitigating Noise from Biomedical Images Using Wavelet Transform Techniques
+      maindescription: "<strong>A. B. Rahman</strong>, M. Ibn Afjal, and M. A. Al Mamun. In <em>2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)</em>, pp. 1–6, 2025."
+      linkitems:
+        - linkname: IEEE / DOI
+          link: https://doi.org/10.1109/ECCE64574.2025.11013062
+    - year: 2023
+      title: Enhanced Brain Tumor Classification from MRI Images Using Deep Learning Model
+      maindescription: "<strong>A. B. Rahman</strong>, M. Touhid Islam, M. R. Islam, M. Sohrawordi, and M. N. Sultan. In <em>2023 26th International Conference on Computer and Information Technology (ICCIT)</em>, pp. 1–6, 2023."
+      linkitems:
+        - linkname: IEEE / DOI
+          link: https://doi.org/10.1109/ICCIT60459.2023.10441064
+
+- title: Teaching
+  type: time_table
+  contents:
+    - year: Summer 2026
+      title: Course Teacher
+      institution: World University of Bangladesh (WUB)
+      description:
+        - Compiler Design
+        - Object Oriented Programming
+        - Introduction to Programming
+    - year: Spring 2026
+      title: Course Teacher
+      institution: World University of Bangladesh (WUB)
+      description:
+        - Object Oriented Programming
+        - Introduction to Programming
+    - year: Fall 2025
+      title: Course Teacher
+      institution: World University of Bangladesh (WUB)
+      description:
+        - Computer Fundamentals
+        - Object Oriented Programming
+        - Computer and Cyber Security
+    - year: 03/23 – 09/23
+      title: Instructor
+      institution: Govt. Shahid Akbar Ali Science and Technology College (SASTC)
+      description:
+        - Theory of Computation and Concrete Mathematics
+        - Computer Graphics and Image Processing
+        - Machine Learning and Pattern Recognition
+
+- title: Research and Projects
+  type: time_table
+  contents:
+    - year: 02/26
+      title: Multilayered Security
+      maindescription: "Implemented and simulated a research project on a Multi-Layered Security System: integrating Quantum Key Distribution with classical cryptography to enhance steganographic security."
+    - year: 11/24
+      title: Guava Fruit Disease Dataset @ IoThink Lab
+      maindescription: Collaborated on dataset collection for interdisciplinary research.
+    - year: 08/24
+      title: Quantum Variational Classifier @ Womanium Program
+      maindescription: Implemented a quantum classifier for Penguin Species Classification.
+    - year: 08/24
+      title: Quanvolutional Neural Networks @ Womanium Program
+      maindescription: Developed a hybrid quantum convolutional model for MNIST Digit Classification.
+    - year: 08/24
+      title: Quantum Regression Model @ Womanium Program
+      maindescription: "Implemented a Quantum Machine Learning model to learn and predict the sine function on the interval [0, 2π]."
+    - year: 08/24
+      title: Quantum Machine Learning for Anomaly Detection @ Womanium Program
+      maindescription: Developed a hybrid model for anomaly detection, leading to project finalist recognition.
+      linkitems:
+        - linkname: GitHub
+          link: https://github.com/AsadullahGalib007/QML-for-Conspicuity-Detection-in-Production
+
+- title: Professional Development
+  type: time_table
+  contents:
+    - year: 09/24 – 12/24
+      title: QClass24/25 Fall Semester
+      maindescription: Achieved 96% in a 3 ECTS graduate-level program on Quantum Algorithms and QKD.
+      linkitems:
+        - linkname: Details
+          link: https://asadullahgalib007.github.io/news/announcement_4/
+    - year: 06/24 – 08/24
+      title: Womanium Quantum + AI 2024
+      maindescription: Coursework on Quantum Computing and AI.
+      linkitems:
+        - linkname: Certificate
+          link: https://www.virtualbadge.io/certificate-validator?credential=825e074b-9a47-467b-b6d1-2c81ec97d97d
+    - year: 08/24
+      title: QGSS 2024 – Quantum Excellence
+      maindescription: Intensive quantum computing boot camp by IBM Qiskit.
+      linkitems:
+        - linkname: Badge
+          link: https://www.credly.com/badges/bf3a899e-4bbe-474c-9e3d-8d96bf66b424/public_url
+    - year: 08/24
+      title: Classiq Diploma
+      maindescription: Advanced quantum algorithm design.
+      linkitems:
+        - linkname: Details
+          link: /news/announcement_2/#classiq1/
+    - year: 08/24
+      title: PennyLane Diploma
+      maindescription: Quantum Machine Learning Challenge completion.
+      linkitems:
+        - linkname: Certificate
+          link: https://cloud.pennylane.ai/profiles/ob/certificates/permalink/d89d86f2-3732-4201-8204-ac3badafba81
+    - year: 07/24
+      title: QNickel Diploma
+      maindescription: Quantum Algorithms workshop.
+      linkitems:
+        - linkname: Details
+          link: /news/announcement_2/#qnickel/
+    - year: 07/24
+      title: QBronze Diploma
+      maindescription: Introductory Quantum Computing and Programming.
+      linkitems:
+        - linkname: Details
+          link: /news/announcement_2/#qbronze/
+    - year: 09/20
+      title: Python for Everybody Specialization
+      maindescription: Coursera specialization on Python fundamentals and data structures.
+      linkitems:
+        - linkname: Certificate
+          link: https://www.coursera.org/account/accomplishments/specialization/6PL6V9V6K2F9
+
+- title: Awards and Achievements
+  type: time_table
+  contents:
+    - year: 06/25
+      title: Unitary Hack 2025
+      maindescription: For open source contributions to the quantum software ecosystem.
+    - year: 04/25
+      title: YQuantum 2025
+      maindescription: "Solved BlueQubit's Peaked Circuits Challenge."
+    - year: 02/25
+      title: MIT iQuHACK 2025
+      maindescription: "Solved IonQ's Max Cut problem."
+    - year: 08/24
+      title: Womanium Quantum + AI 2024
+      maindescription: Program finalist and QSL fellowship nominee.
+    - year: 06/24
+      title: IBM Quantum Challenge 2024
+      maindescription: Ranked 11th globally.
+    - year: 01/16
+      title: 6th BAS Science Olympiad
+      maindescription: Division 3rd and National-level nominee.
+    - year: 09/15
+      title: 5th DSA Physics Olympiad
+      maindescription: 7th place.
+
+- title: Volunteering
+  type: time_table
+  contents:
+    - year: 04/25 – Present
+      title: Coordinator & Mentor, QBangladesh (QWorld)
+      maindescription: "Mentoring students and promoting quantum computing literacy in Bangladesh. Hosted events: QBronze and QSilver."
+
+- title: Hobbies
+  type: list
+  contents:
+    - 'Chess — <a href="https://lichess.org/@/AsadullahGalib" target="_blank">Lichess</a>, <a href="https://www.chess.com/member/asadullahgalib" target="_blank">Chess.com</a>'
+    - Gardening
+
+- title: References
+  type: map
+  contents:
+    - name: Dr. Md. Abdulla Al Mamun
+      value: 'Professor, Department of Computer Science and Engineering, HSTU. Email: <a href="mailto:mamun@hstu.ac.bd">mamun@hstu.ac.bd</a> · Phone: +880 1886-890345'
+      links:
+        - name: Profile
+          link: https://hstu.ac.bd/teacher/mamun
+    - name: Dr. Masud Ibn Afjal
+      value: 'Professor, Department of Computer Science and Engineering, HSTU. Email: <a href="mailto:masud@hstu.ac.bd">masud@hstu.ac.bd</a> · Phone: +880 1737-049633'
+      links:
+        - name: Profile
+          link: https://hstu.ac.bd/teacher/masud

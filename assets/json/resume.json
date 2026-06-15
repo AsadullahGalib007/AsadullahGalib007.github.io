@@ -1,19 +1,19 @@
 {
   "basics": {
-   "name": "Asadullah Bin Rahman",
-   "title": "Lecturer | AI/ML Researcher | Quantum Computing Enthusiast",
-   "image": "assets/img/prof_pic.png",
-   "email": "galib.hstu.cse17@gmail.com",
-   "phone": "",
-   "url": "https://asadullahgalib007.github.io",
-   "summary": "Lecturer of Computer Science and Engineering at World University of Bangladesh, specializing in quantum computing, machine learning, and biomedical image processing.",
-   "location": {
-     "address": "Khansama",
-     "postalCode": "5230",
-     "city": "Dhaka",
-     "countryCode": "BD",
-     "region": "Bangladesh"
-   },
+    "name": "Asadullah Bin Rahman",
+    "title": "Lecturer | AI/ML Researcher | Quantum Computing Enthusiast",
+    "image": "assets/img/prof_pic.png",
+    "email": "galib.hstu.cse17@gmail.com",
+    "phone": "",
+    "url": "https://asadullahgalib007.github.io",
+    "summary": "Lecturer of Computer Science and Engineering at World University of Bangladesh, specializing in quantum computing, machine learning, and biomedical image processing.",
+    "location": {
+      "address": "Khansama",
+      "postalCode": "5230",
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": "Bangladesh"
+    },
     "socials": [
       {
         "network": "LinkedIn",
@@ -36,35 +36,35 @@
       "keywords": ["Quantum Optimization", "Quantum Key Distribution", "Quantum Machine Learning"]
     }
   },
-"work": [
- {
-   "name": "World University of Bangladesh",
-   "position": "Lecturer of Computer Science and Engineering",
-   "url": "",
-   "startDate": "2025-07-01",
-   "endDate": "",
-   "summary": "Teaching undergraduate courses in Computer Science and Engineering. Mentoring students in research and academic projects.",
-   "highlights": ["Student mentorship and guidance", "OBE curriculum", "Bloom's taxonomy"]
- },
- {
-   "name": "IoThink Lab, HSTU",
-   "position": "Research Assistant",
-   "url": "",
-   "startDate": "2023-07-01",
-   "endDate": "",
-   "summary": "Conducting research in image processing and machine learning. Aiding my supervisor in facilitating research work.",
-   "highlights": ["Biomedical Image Processing"]
- },
- {
-   "name": "Govt. Shahid Akbar Ali Science and Technology College (SASTC)",
-   "position": "Lecturer of Computer Science and Engineering",
-   "url": "",
-   "startDate": "2023-03-01",
-   "endDate": "2023-09-01",
-   "summary": "Taught: Theory of Computation, Computer Graphics, Machine Learning.",
-   "highlights": ["Designed and delivered courses.", "Supervised project works"]
- }
-],
+  "work": [
+    {
+      "name": "World University of Bangladesh",
+      "position": "Lecturer of Computer Science and Engineering",
+      "url": "",
+      "startDate": "2025-07-01",
+      "endDate": "",
+      "summary": "Teaching undergraduate courses in Computer Science and Engineering. Mentoring students in research and academic projects.",
+      "highlights": ["Student mentorship and guidance", "OBE curriculum", "Bloom's taxonomy"]
+    },
+    {
+      "name": "IoThink Lab, HSTU",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2023-07-01",
+      "endDate": "",
+      "summary": "Conducting research in image processing and machine learning. Aiding my supervisor in facilitating research work.",
+      "highlights": ["Biomedical Image Processing"]
+    },
+    {
+      "name": "Govt. Shahid Akbar Ali Science and Technology College (SASTC)",
+      "position": "Lecturer of Computer Science and Engineering",
+      "url": "",
+      "startDate": "2023-03-01",
+      "endDate": "2023-09-01",
+      "summary": "Taught: Theory of Computation, Computer Graphics, Machine Learning.",
+      "highlights": ["Designed and delivered courses.", "Supervised project works"]
+    }
+  ],
   "volunteer": [
     {
       "organization": "QBangladesh (QWorld)",
@@ -208,18 +208,18 @@
     }
   ],
   "publications": [
-  {
-   "name": "Systematic Evaluation of Wavelet-Based Denoising for MRI Brain Images: Optimal Configurations and Performance Benchmarks",
-   "publisher": "arXiv preprint arXiv:2508.15011",
-   "releaseDate": "2025-08-20",
-   "url": "https://arxiv.org/abs/2508.15011"
- },
- {
-   "name": "Deep Learning Architectures for Medical Image Denoising: A Comparative Study of CNN-DAE, CADTra, and DCMIEDNet",
-   "publisher": "arXiv preprint arXiv:2508.17223",
-   "releaseDate": "2025-08-25",
-   "url": "https://arxiv.org/abs/2508.17223"
- },
+    {
+      "name": "Systematic Evaluation of Wavelet-Based Denoising for MRI Brain Images: Optimal Configurations and Performance Benchmarks",
+      "publisher": "arXiv preprint arXiv:2508.15011",
+      "releaseDate": "2025-08-20",
+      "url": "https://arxiv.org/abs/2508.15011"
+    },
+    {
+      "name": "Deep Learning Architectures for Medical Image Denoising: A Comparative Study of CNN-DAE, CADTra, and DCMIEDNet",
+      "publisher": "arXiv preprint arXiv:2508.17223",
+      "releaseDate": "2025-08-25",
+      "url": "https://arxiv.org/abs/2508.17223"
+    },
     {
       "name": "Mitigating Noise from Biomedical Images Using Wavelet Transform Techniques",
       "publisher": "2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)",
