@@ -1322,40 +1322,267 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 
-// For my games
-/* Container to hold the iframes */
-.iframe-container {
+// ─────────────────────────────────────────────────────────────
+//  Chess games gallery
+// ─────────────────────────────────────────────────────────────
+
+/* Quick stat strip above the gallery */
+.chess-stats {
   display: flex;
-  // flex-direction: column;
-  gap: 20px;            /* Space between iframes */
-  flex-wrap: wrap;      /* Allow wrapping */
-}
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 1.5rem 0 2rem;
 
-/* Style for iframes on larger screens */
-.iframe-container iframe {
-  flex: 1;              /* Ensure equal space for iframes */
-  min-width: 50%;       /* Each iframe takes up 45% of container width */
-  // height: 397px;        /* Default height for iframes */
-  max-width: 100%;     /* Restrict maximum width */
-  border: none;
-}
+  .chess-stat {
+    flex: 1 1 120px;
+    text-align: center;
+    padding: 14px 10px;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 12px;
+    background-color: var(--global-card-bg-color);
 
-/* For medium screens (tablets and small laptops) */
-@media (max-width: 768px) {
-  .iframe-container iframe {
-    min-width: 50%;    /* Take up full width in a single column */
-    // height: 300px;      /* Smaller height for medium screens */
-    max-width: 100%;    /* Remove any max width */
-
+    .num {
+      display: block;
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: var(--global-theme-color);
+      line-height: 1.1;
+    }
+    .label {
+      display: block;
+      font-size: 0.72rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--global-text-color-light);
+      margin-top: 2px;
+    }
   }
 }
 
-/* For small screens (mobile devices) */
-@media (max-width: 480px) {
-  .iframe-container iframe {
-    min-width: 50%;    /* Full width in a single column */
-    // height: 250px;      /* Smaller height for mobile screens */
-    max-width: 100%;    /* Remove any max width */
+/* Responsive card grid */
+.chess-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 22px;
+  margin-top: 1.5rem;
+}
+
+.chess-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 14px;
+  overflow: hidden;
+  background-color: var(--global-card-bg-color);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+    border-color: var(--global-theme-color);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.16);
+  }
+
+  /* Square board preview */
+  .chess-card__board {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    background: var(--global-divider-color);
+
+    img,
+    iframe {
+      display: block;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    img {
+      object-fit: cover;
+    }
+  }
+
+  /* Result + upset badges */
+  .chess-card__badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 9px;
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    border-radius: 999px;
+    color: #fff;
+    background: linear-gradient(135deg, #2e9e5b, #38c172);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+  }
+  .chess-card__upset {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 3px 9px;
+    font-size: 0.68rem;
+    font-weight: 700;
+    border-radius: 999px;
+    color: #1c1c1c;
+    background: linear-gradient(135deg, #ffd34e, #ff9f1c);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+  }
+
+  /* Hover-to-reveal replay button */
+  .chess-card__play {
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    width: 56px;
+    height: 56px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.1rem;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(2px);
+    opacity: 0;
+    transform: scale(0.85);
+    transition:
+      opacity 0.2s ease,
+      transform 0.2s ease,
+      background 0.2s ease;
+  }
+  &:hover .chess-card__play,
+  .chess-card__play:focus-visible {
+    opacity: 1;
+    transform: scale(1);
+  }
+  .chess-card__play:hover {
+    background: var(--global-theme-color);
+  }
+
+  /* Text body */
+  .chess-card__body {
+    padding: 14px 16px 16px;
+  }
+  .chess-card__opponent {
+    font-size: 1.02rem;
+    font-weight: 600;
+    color: var(--global-text-color);
+
+    .rating {
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: var(--global-text-color-light);
+    }
+  }
+  .chess-card__opening {
+    margin-top: 4px;
+    font-size: 0.82rem;
+    color: var(--global-theme-color);
+  }
+  .chess-card__meta {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--global-divider-color);
+    font-size: 0.76rem;
+    color: var(--global-text-color-light);
+
+    span + span::before {
+      content: "·";
+      margin: 0 6px;
+      opacity: 0.6;
+    }
+  }
+}
+
+/* ─────────────────────────────────────────────────────────────
+   Replay modal — clicking a card opens the interactive Lichess board
+   in a centred overlay. Keeping its width <= 440px holds the embed in
+   its clean stacked layout (board + players + controls + moves), so the
+   board always fills the dialog regardless of the page/card width.
+   ───────────────────────────────────────────────────────────── */
+.chess-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+
+  &[hidden] {
+    display: none;
+  }
+
+  .chess-modal__backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.72);
+    backdrop-filter: blur(2px);
+  }
+
+  .chess-modal__dialog {
+    position: relative;
+    width: min(440px, 92vw);
+    background: hsl(37, 5%, 18%); // matches the embed background
+    border-radius: 12px;
+    box-shadow: 0 18px 50px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    animation: chess-modal-in 0.18s ease-out;
+  }
+
+  .chess-modal__close {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.3rem;
+    line-height: 1;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    transition: background 0.15s ease;
+
+    &:hover {
+      background: var(--global-theme-color);
+    }
+  }
+
+  .chess-modal__body iframe {
+    display: block;
+    width: 100%;
+    border: 0;
+  }
+}
+
+@keyframes chess-modal-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Touch / no-hover devices: keep the replay button visible */
+@media (hover: none) {
+  .chess-card .chess-card__play {
+    opacity: 1;
+    transform: scale(1);
   }
 }
 
