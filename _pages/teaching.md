@@ -69,7 +69,9 @@ Currently serving as a Lecturer in the Department of Computer Science and Engine
 
 During my tenure as an Instructor in the Computer Science and Engineering department at Govt. Shahid Akbar Ali Science and Technology College (SASTC), I taught core theoretical and applied undergraduate courses, fostering a strong understanding of computational theory, visual computing, and intelligent systems.
 
-### Courses Taught:
+---
+
+### Summer 2023
 
 #### 1. Theory of Computation and Concrete Mathematics
 - **Level**: Undergraduate
