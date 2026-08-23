@@ -64,27 +64,6 @@ Currently serving as a Lecturer in the Department of Computer Science and Engine
 
 ---
 
-## Govt. Shahid Akbar Ali Science and Technology College (SASTC)
-*March 2023 – September 2023*
-
-During my tenure as an Instructor in the Computer Science and Engineering department at Govt. Shahid Akbar Ali Science and Technology College (SASTC), I taught core theoretical and applied undergraduate courses, fostering a strong understanding of computational theory, visual computing, and intelligent systems.
-
----
-
-### Summer 2023
-
-#### 1. Theory of Computation and Concrete Mathematics
-- **Level**: Undergraduate
-- **Description**: Introduced students to the theoretical foundations of computation and discrete mathematical structures. Topics covered included finite automata, regular and context-free languages, Turing machines, complexity theory, and the mathematical foundations necessary for rigorous algorithmic analysis.
-
-#### 2. Computer Graphics and Image Processing
-- **Level**: Undergraduate
-- **Description**: Covered fundamental concepts in computer graphics, including 2D/3D rendering, geometric transformations, and rasterization. The image processing component focused on digital image representation, spatial filtering, noise reduction, and image enhancement techniques.
-
-#### 3. Machine Learning and Pattern Recognition
-- **Level**: Undergraduate
-- **Description**: Provided students with a comprehensive introduction to machine learning techniques, including both supervised and unsupervised learning algorithms. The course emphasized practical applications such as pattern recognition, classification, and clustering using real-world datasets.
-
 ### Key Teaching Achievements:
 - Developed and delivered comprehensive, well-structured course materials, including lecture notes, programming assignments, and rigorous examinations.
 - Guided students through hands-on projects and practical implementations, effectively bridging the gap between abstract theoretical concepts and real-world computational problem-solving.

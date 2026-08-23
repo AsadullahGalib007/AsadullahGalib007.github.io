@@ -27,9 +27,6 @@
     - year: 07/23 – 07/25
       title: Research Assistant
       institution: IoThink Lab, Department of Computer Science and Engineering, HSTU
-    - year: 03/23 – 09/23
-      title: Lecturer, Computer Science and Engineering
-      institution: Govt. Shahid Akbar Ali Science and Technology College (Affiliated to HSTU), Bangladesh
 
 - title: Education
   type: time_table
@@ -110,13 +107,18 @@
         - Computer Fundamentals
         - Object Oriented Programming
         - Computer and Cyber Security
-    - year: Summer 2023
-      title: Instructor
-      institution: Govt. Shahid Akbar Ali Science and Technology College (SASTC)
-      description:
-        - Theory of Computation and Concrete Mathematics
-        - Computer Graphics and Image Processing
-        - Machine Learning and Pattern Recognition
+
+- title: Thesis Supervision
+  type: time_table
+  contents:
+    - year: Summer 2026
+      title: Explainable Deep Learning for Plant Disease Classification Using Convolutional Neural Networks
+      institution: World University of Bangladesh (WUB)
+      maindescription: Comparison of CNN architectures for leaf disease classification on PlantVillage crops, with Grad-CAM saliency exposing the leaf regions behind each prediction.
+    - year: Summer 2026
+      title: "ClassSync Pro: IoT-Based Smart Classroom Automation System"
+      institution: World University of Bangladesh (WUB)
+      maindescription: LMS-scheduled control of classroom air-conditioning, fans, lighting and projectors with sensor-based occupancy validation; projected 30–40% cut in campus energy use.
 
 - title: Research and Projects
   type: time_table

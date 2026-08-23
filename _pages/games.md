@@ -8,6 +8,66 @@ nav_order: 7
 # Each board preview is the *final* position of the game (the moment it was won).
 # Click "replay" on a card to load the full interactive Lichess board.
 games:
+  - id: WYAh6COn
+    color: White
+    opponent: XOPBAT_u3_MOCKBbl
+    opp_rating: 1331
+    my_rating: 1278
+    result: Checkmate
+    opening: "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"
+    eco: C50
+    date: "Aug 13, 2026"
+    upset: 53
+  - id: 7Fvawfez
+    color: Black
+    opponent: StanislavNi
+    opp_rating: 1375
+    my_rating: 1279
+    result: Resignation
+    opening: Scotch Game
+    eco: C44
+    date: "Aug 9, 2026"
+    upset: 96
+  - id: cgpqdHYo
+    color: White
+    opponent: infinitegaming88
+    opp_rating: 1329
+    my_rating: 1273
+    result: Resignation
+    opening: "Four Knights Game: Italian Variation"
+    eco: C47
+    date: "Aug 9, 2026"
+    upset: 56
+  - id: pDI6SlvI
+    color: Black
+    opponent: cerkus27
+    opp_rating: 1345
+    my_rating: 1251
+    result: Resignation
+    opening: "King's Pawn Game: Wayward Queen Attack"
+    eco: C20
+    date: "Aug 7, 2026"
+    upset: 94
+  - id: AgtMmREv
+    color: White
+    opponent: Neon888
+    opp_rating: 1307
+    my_rating: 1238
+    result: Resignation
+    opening: "French Defense: Perseus Gambit"
+    eco: C00
+    date: "Aug 7, 2026"
+    upset: 69
+  - id: 2ubc2iDo
+    color: White
+    opponent: lbrn
+    opp_rating: 1367
+    my_rating: 1252
+    result: Resignation
+    opening: "Italian Game: Anti-Fried Liver Defense"
+    eco: C50
+    date: "Aug 5, 2026"
+    upset: 115
   - id: YHiFxq9U
     color: White
     opponent: gallitoss
