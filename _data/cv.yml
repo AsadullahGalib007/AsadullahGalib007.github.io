@@ -87,27 +87,32 @@
 - title: Teaching
   type: time_table
   contents:
+    - year: Fall 2026
+      title: Course Teacher
+      institution: World University of Bangladesh (WUB)
+      description:
+        - "Object Oriented Programming (Batch 71C, 71D, 71E, Semester 4) — CSE 06132120"
     - year: Summer 2026
       title: Course Teacher
       institution: World University of Bangladesh (WUB)
       description:
-        - Compiler Design
-        - Object Oriented Programming
-        - Introduction to Programming
+        - "Compiler Design (Batch 63A, Semester 11) — CSE 06134156"
+        - "Object Oriented Programming (Batch 70E, Semester 4) — CSE 06132120"
+        - "Introduction to Programming (Batch 73B, Semester 1) — CSE 06131209"
     - year: Spring 2026
       title: Course Teacher
       institution: World University of Bangladesh (WUB)
       description:
-        - Object Oriented Programming
-        - Introduction to Programming
+        - "Object Oriented Programming (Batch 69A, Semester 4) — CSE 06132120"
+        - "Introduction to Programming (Batch 70B, 71C, Semester 2) — CSE 06131209"
     - year: Fall 2025
       title: Course Teacher
       institution: World University of Bangladesh (WUB)
       description:
-        - Computer Fundamentals
-        - Object Oriented Programming
-        - Computer and Cyber Security
-
+        - "Computer Fundamentals (Batch 71G, Semester 1) — CSE 06111101"
+        - "Object Oriented Programming (Batch 68A, Semester 4) — CSE 06132120"
+        - "Computer and Cyber Security (Batch 63B, Semester 9) — CSE 06124158"
+               
 - title: Thesis Supervision
   type: time_table
   contents:
