@@ -20,18 +20,34 @@ Currently serving as a Lecturer in the Department of Computer Science and Engine
 
 ---
 
+### Fall 2026
+
+#### 1. Object Oriented Programming
+- **Level**: Undergraduate
+- **Batch / Semester**: 71C, 71D, 71E / Semester 4
+- **Course Code**: CSE 06132120
+- **Description**: Focuses on object-oriented design principles, including encapsulation, inheritance, polymorphism, and abstraction. Students learn to design, implement, and debug robust software solutions using object-oriented languages.
+
+---
+
 ### Summer 2026
 
 #### 1. Compiler Design
 - **Level**: Undergraduate
+- **Batch / Semester**: 63A / Semester 11
+- **Course Code**: CSE 06134156
 - **Description**: Explores the theoretical and practical principles of compiler construction. Topics include lexical analysis, syntax analysis, semantic analysis, code optimization, and code generation, providing students with a deep understanding of how high-level code is translated into machine instructions.
 
 #### 2. Object Oriented Programming
 - **Level**: Undergraduate
+- **Batch / Semester**: 70E / Semester 4
+- **Course Code**: CSE 06132120
 - **Description**: Focuses on object-oriented design principles, including encapsulation, inheritance, polymorphism, and abstraction. Students learn to design, implement, and debug robust software solutions using object-oriented languages.
 
 #### 3. Introduction to Programming
-- **Level**: Undergraduate  
+- **Level**: Undergraduate
+- **Batch / Semester**: 73B / Semester 1
+- **Course Code**: CSE 06131209
 - **Description**: Foundational course covering basic programming concepts, syntax, data types, control structures, functions, and problem-solving techniques. Students gain hands-on experience through practical exercises that build core programming proficiency.
 
 ---
@@ -40,10 +56,14 @@ Currently serving as a Lecturer in the Department of Computer Science and Engine
 
 #### 1. Object Oriented Programming
 - **Level**: Undergraduate
+- **Batch / Semester**: 69A / Semester 4
+- **Course Code**: CSE 06132120
 - **Description**: Focuses on object-oriented design principles, including encapsulation, inheritance, polymorphism, and abstraction. Students learn to design, implement, and debug robust software solutions using object-oriented languages.
 
 #### 2. Introduction to Programming
-- **Level**: Undergraduate  
+- **Level**: Undergraduate
+- **Batch / Semester**: 70B, 71C / Semester 2
+- **Course Code**: CSE 06131209
 - **Description**: Foundational course covering basic programming concepts, syntax, data types, control structures, functions, and problem-solving techniques. Students gain hands-on experience through practical exercises that build core programming proficiency.
 
 ---
@@ -52,14 +72,20 @@ Currently serving as a Lecturer in the Department of Computer Science and Engine
 
 #### 1. Computer Fundamentals
 - **Level**: Undergraduate
+- **Batch / Semester**: 71G / Semester 1
+- **Course Code**: CSE 06111101
 - **Description**: Introduction to fundamental concepts of computer science and information technology. Topics include computer hardware and software components, number systems, data representation, basic algorithms, and an introduction to programming concepts.
 
 #### 2. Object Oriented Programming
 - **Level**: Undergraduate
+- **Batch / Semester**: 68A / Semester 4
+- **Course Code**: CSE 06132120
 - **Description**: Focuses on object-oriented design principles, including encapsulation, inheritance, polymorphism, and abstraction. Students learn to design, implement, and debug robust software solutions using object-oriented languages.
 
 #### 3. Computer and Cyber Security
 - **Level**: Undergraduate
+- **Batch / Semester**: 63B / Semester 9
+- **Course Code**: CSE 06124158
 - **Description**: Covers the fundamentals of information security, including cryptography, network security, threat analysis, and secure system design. This course aligns with advanced topics like multi-layered security systems and secure communications.
 
 ---
