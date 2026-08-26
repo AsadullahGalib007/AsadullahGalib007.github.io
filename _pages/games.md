@@ -151,7 +151,7 @@ I am no chess master — this is just where I unwind. These aren't my whole reco
   {% for game in page.games %}
   <div class="chess-card">
     <div class="chess-card__board">
-      <img loading="lazy" src="https://lichess1.org/game/export/gif/thumbnail/{{ game.id }}.gif" alt="Final position of my game versus {{ game.opponent }}" />
+      <img loading="lazy" src="https://lichess.org/game/export/gif/thumbnail/{{ game.id }}.gif" alt="Final position of my game versus {{ game.opponent }}" />
       <span class="chess-card__badge">♚ WIN</span>
       {% if game.upset %}<span class="chess-card__upset">⚡ +{{ game.upset }}</span>{% endif %}
       <button class="chess-card__play" type="button" aria-label="Replay game versus {{ game.opponent }}" data-embed="https://lichess.org/embed/game/{{ game.id }}?theme=auto&bg=auto{{ game.anchor }}">▶</button>
