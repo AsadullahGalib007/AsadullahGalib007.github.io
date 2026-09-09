@@ -91,7 +91,8 @@
       title: Course Teacher
       institution: World University of Bangladesh (WUB)
       description:
-        - "Object Oriented Programming (Batch 71C, 71D, 71E, Semester 4) — CSE 06132120"
+        - "Object Oriented Programming (Batch 71C, 72D, 71E, Semester 4) — CSE 06132120"
+        - "Introduction to Programming (Batch 74D, Semester 2) — CSE 06131209"
     - year: Summer 2026
       title: Course Teacher
       institution: World University of Bangladesh (WUB)
@@ -124,6 +125,14 @@
       title: "ClassSync Pro: IoT-Based Smart Classroom Automation System"
       institution: World University of Bangladesh (WUB)
       maindescription: LMS-scheduled control of classroom air-conditioning, fans, lighting and projectors with sensor-based occupancy validation; projected 30–40% cut in campus energy use.
+
+- title: Coaching and Mentoring
+  type: time_table
+  contents:
+    - year: 07/25 – Present
+      title: Competitive Programming Coach
+      institution: World University of Bangladesh (WUB)
+      maindescription: Training undergraduate teams for ICPC (Asia West Continent / Dhaka Regional), NCPC and inter-university programming contests (IUPC). Weekly problem-solving sessions and mock contests covering data structures, graph algorithms, dynamic programming, number theory and computational geometry; team formation, contest strategy and post-contest editorial review.
 
 - title: Research and Projects
   type: time_table

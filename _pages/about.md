@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I'm Asadullah Bin Rahman, a Lecturer of Computer Science and Engineering at World University of Bangladesh. My work focuses on image processing, machine learning, and quantum computing.
 
-I have published research on brain tumor classification and MRI image denoising, and I work with quantum computing frameworks such as Qiskit, Cirq, and PennyLane to build hybrid quantum-classical models. I also mentor students in quantum computing through QBangladesh (QWorld).
+I have published research on brain tumor classification and MRI image denoising, and I work with quantum computing frameworks such as Qiskit, Cirq, and PennyLane to build hybrid quantum-classical models. I also mentor students in quantum computing through QBangladesh (QWorld), and coach the university's competitive programming teams for ICPC, NCPC, and inter-university contests.
 
 **Research Interests:** Image Processing, Machine Learning, Quantum Computing.
 <!-- You can read my research statement [here](assets/pdf/Asadullah_Research_Statement.pdf). -->

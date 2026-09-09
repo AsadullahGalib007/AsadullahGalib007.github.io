@@ -24,9 +24,15 @@ Currently serving as a Lecturer in the Department of Computer Science and Engine
 
 #### 1. Object Oriented Programming
 - **Level**: Undergraduate
-- **Batch / Semester**: 71C, 71D, 71E / Semester 4
+- **Batch / Semester**: 71C, 72D, 71E / Semester 4
 - **Course Code**: CSE 06132120
 - **Description**: Focuses on object-oriented design principles, including encapsulation, inheritance, polymorphism, and abstraction. Students learn to design, implement, and debug robust software solutions using object-oriented languages.
+
+#### 2. Introduction to Programming
+- **Level**: Undergraduate
+- **Batch / Semester**: 74D / Semester 2
+- **Course Code**: CSE 06131209
+- **Description**: Foundational course covering basic programming concepts, syntax, data types, control structures, functions, and problem-solving techniques. Students gain hands-on experience through practical exercises that build core programming proficiency.
 
 ---
 
@@ -87,6 +93,18 @@ Currently serving as a Lecturer in the Department of Computer Science and Engine
 - **Batch / Semester**: 63B / Semester 9
 - **Course Code**: CSE 06124158
 - **Description**: Covers the fundamentals of information security, including cryptography, network security, threat analysis, and secure system design. This course aligns with advanced topics like multi-layered security systems and secure communications.
+
+---
+
+## Coaching and Mentoring
+
+### Competitive Programming Coach
+*July 2025 – Present · World University of Bangladesh*
+
+Training undergraduate teams for ICPC (Asia West Continent / Dhaka Regional), NCPC, and inter-university programming contests (IUPC).
+
+- **Weekly sessions**: problem-solving practice and mock contests covering data structures, graph algorithms, dynamic programming, number theory, and computational geometry
+- **Team development**: team formation, contest strategy, and post-contest editorial review
 
 ---
 
