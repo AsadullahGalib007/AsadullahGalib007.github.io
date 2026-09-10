@@ -99,7 +99,7 @@ Currently serving as a Lecturer in the Department of Computer Science and Engine
 ## Coaching and Mentoring
 
 ### Competitive Programming Coach
-*July 2025 – Present · World University of Bangladesh*
+*September 2026 – Present · World University of Bangladesh*
 
 Training undergraduate teams for ICPC (Asia West Continent / Dhaka Regional), NCPC, and inter-university programming contests (IUPC).
 
